@@ -1,0 +1,852 @@
+{
+    "data": {
+        "bssListChildProductOfferings": [
+            {
+                "id": "301000132",
+                "name": "WiFi UAE 50GB Postpaid",
+                "isRoot": false,
+                "assignedTags": [
+                    {
+                        "id": "9161886435513065983",
+                        "name": "Included Allowance",
+                        "tagGroup": {
+                            "name": "Child Offering Group"
+                        }
+                    }
+                ],
+                "product": {
+                    "chars": [
+                        {
+                            "name": "Data volume",
+                            "type": "String",
+                            "value": "50 GB"
+                        },
+                        {
+                            "name": "Mobile Offer Identification Number",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Allowance type",
+                            "type": "List",
+                            "value": "Included allowance"
+                        },
+                        {
+                            "name": "Product category",
+                            "type": "List",
+                            "value": "WiFi allowance"
+                        },
+                        {
+                            "name": "Suspend reason",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Suspend reason description",
+                            "type": "String",
+                            "value": null
+                        }
+                    ],
+                    "params": []
+                },
+                "prices": [
+                    {
+                        "priceValues": [
+                            {
+                                "priceTaxExcluded": 0
+                            }
+                        ],
+                        "tax": 0,
+                        "type": "Monthly Fee",
+                        "chars": [],
+                        "currency": {
+                            "currencyCode": "AED"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "301000112",
+                "name": "National Data 25GB with CO",
+                "isRoot": false,
+                "assignedTags": [
+                    {
+                        "id": "9161886435513065983",
+                        "name": "Included Allowance",
+                        "tagGroup": {
+                            "name": "Child Offering Group"
+                        }
+                    },
+                    {
+                        "id": "9164382023913061381",
+                        "name": "20GB-50GB",
+                        "tagGroup": {
+                            "name": "Range of national data"
+                        }
+                    }
+                ],
+                "product": {
+                    "chars": [
+                        {
+                            "name": "Data volume",
+                            "type": "String",
+                            "value": "25 GB"
+                        },
+                        {
+                            "name": "Mobile Offer Identification Number",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Allowance type",
+                            "type": "List",
+                            "value": "Included allowance"
+                        },
+                        {
+                            "name": "Product category",
+                            "type": "List",
+                            "value": "Data national allowance"
+                        },
+                        {
+                            "name": "Suspend reason",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Suspend reason description",
+                            "type": "String",
+                            "value": null
+                        }
+                    ],
+                    "params": []
+                },
+                "prices": [
+                    {
+                        "priceValues": [
+                            {
+                                "priceTaxExcluded": 0
+                            }
+                        ],
+                        "tax": 0,
+                        "type": "Monthly Fee",
+                        "chars": [],
+                        "currency": {
+                            "currencyCode": "AED"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "301000120",
+                "name": "Roaming Data 500 MB - Postpaid",
+                "isRoot": false,
+                "assignedTags": [
+                    {
+                        "id": "9165514967413221706",
+                        "name": "Roaming Add-On",
+                        "tagGroup": null
+                    },
+                    {
+                        "id": "9161886435513065983",
+                        "name": "Included Allowance",
+                        "tagGroup": {
+                            "name": "Child Offering Group"
+                        }
+                    },
+                    {
+                        "id": "9164382027913061381",
+                        "name": "0MB-2GB",
+                        "tagGroup": {
+                            "name": "Range of roaming data"
+                        }
+                    }
+                ],
+                "product": {
+                    "chars": [
+                        {
+                            "name": "Data volume",
+                            "type": "String",
+                            "value": "500 MB"
+                        },
+                        {
+                            "name": "Mobile Offer Identification Number",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Allowance type",
+                            "type": "List",
+                            "value": "Roaming included allowance"
+                        },
+                        {
+                            "name": "Pack service type",
+                            "type": "List",
+                            "value": "Data"
+                        },
+                        {
+                            "name": "Zone",
+                            "type": "List",
+                            "value": "Zone A"
+                        },
+                        {
+                            "name": "Product category",
+                            "type": "List",
+                            "value": "Data roaming allowance"
+                        },
+                        {
+                            "name": "Suspend reason",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Suspend reason description",
+                            "type": "String",
+                            "value": null
+                        }
+                    ],
+                    "params": []
+                },
+                "prices": [
+                    {
+                        "priceValues": [
+                            {
+                                "priceTaxExcluded": 0
+                            }
+                        ],
+                        "tax": 0,
+                        "type": "Monthly Fee",
+                        "chars": [],
+                        "currency": {
+                            "currencyCode": "AED"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "301000088",
+                "name": "National Voice Unlimited Postpaid",
+                "isRoot": false,
+                "assignedTags": [
+                    {
+                        "id": "9164382025813061381",
+                        "name": "800min-unlimited",
+                        "tagGroup": {
+                            "name": "Range of national mins"
+                        }
+                    },
+                    {
+                        "id": "9161886435513065983",
+                        "name": "Included Allowance",
+                        "tagGroup": {
+                            "name": "Child Offering Group"
+                        }
+                    }
+                ],
+                "product": {
+                    "chars": [
+                        {
+                            "name": "Voice volume",
+                            "type": "String",
+                            "value": "Unlimited"
+                        },
+                        {
+                            "name": "Mobile Offer Identification Number",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Allowance type",
+                            "type": "List",
+                            "value": "Included allowance"
+                        },
+                        {
+                            "name": "Product category",
+                            "type": "List",
+                            "value": "Voice national allowance"
+                        },
+                        {
+                            "name": "Suspend reason",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Suspend reason description",
+                            "type": "String",
+                            "value": null
+                        }
+                    ],
+                    "params": []
+                },
+                "prices": [
+                    {
+                        "priceValues": [
+                            {
+                                "priceTaxExcluded": 0
+                            }
+                        ],
+                        "tax": 0,
+                        "type": "Monthly Fee",
+                        "chars": [],
+                        "currency": {
+                            "currencyCode": "AED"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "301000291",
+                "name": "Paid Amazon Prime Postpaid",
+                "isRoot": false,
+                "assignedTags": [
+                    {
+                        "id": "9167510251913234305",
+                        "name": "OTT Subscriptions",
+                        "tagGroup": {
+                            "name": "App&Web Reflection"
+                        }
+                    },
+                    {
+                        "id": "9167980455213655761",
+                        "name": "Should be upgrade to another offer",
+                        "tagGroup": null
+                    },
+                    {
+                        "id": "9161886438513065983",
+                        "name": "OTT",
+                        "tagGroup": {
+                            "name": "Child Offering Group"
+                        }
+                    }
+                ],
+                "product": {
+                    "chars": [
+                        {
+                            "name": "Amazon prime activation date",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Amazon prime subscription type",
+                            "type": "List",
+                            "value": null
+                        },
+                        {
+                            "name": "Disconnect reason",
+                            "type": "List",
+                            "value": null
+                        },
+                        {
+                            "name": "Entitlement ID",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Mobile Offer Identification Number",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Product key",
+                            "type": "List",
+                            "value": "f0a8bcec-50f3-4921-9238-1f91423bbcb6"
+                        },
+                        {
+                            "name": "Product category",
+                            "type": "List",
+                            "value": "OTT"
+                        },
+                        {
+                            "name": "Should be as Add On in bill",
+                            "type": "List",
+                            "value": "Yes"
+                        }
+                    ],
+                    "params": []
+                },
+                "prices": [
+                    {
+                        "priceValues": [
+                            {
+                                "priceTaxExcluded": 7.5
+                            }
+                        ],
+                        "tax": 0.38,
+                        "type": "Monthly Fee",
+                        "chars": [],
+                        "currency": {
+                            "currencyCode": "AED"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "301000292",
+                "name": "Beneficial Amazon Prime Postpaid",
+                "isRoot": false,
+                "assignedTags": [
+                    {
+                        "id": "9167510251913234305",
+                        "name": "OTT Subscriptions",
+                        "tagGroup": {
+                            "name": "App&Web Reflection"
+                        }
+                    },
+                    {
+                        "id": "9166854250413248211",
+                        "name": "OTT Framework",
+                        "tagGroup": null
+                    },
+                    {
+                        "id": "9161886438513065983",
+                        "name": "OTT",
+                        "tagGroup": {
+                            "name": "Child Offering Group"
+                        }
+                    }
+                ],
+                "product": {
+                    "chars": [
+                        {
+                            "name": "Amazon prime activation date",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Amazon prime subscription type",
+                            "type": "List",
+                            "value": null
+                        },
+                        {
+                            "name": "Disconnect reason",
+                            "type": "List",
+                            "value": null
+                        },
+                        {
+                            "name": "Entitlement ID",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Mobile Offer Identification Number",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Product key",
+                            "type": "List",
+                            "value": "f5276684-2c7e-4e84-87fe-08ee85a4a1d1"
+                        },
+                        {
+                            "name": "Product category",
+                            "type": "List",
+                            "value": "OTT"
+                        },
+                        {
+                            "name": "Should be as Add On in bill",
+                            "type": "List",
+                            "value": "Yes"
+                        }
+                    ],
+                    "params": [
+                        {
+                            "name": "Offering name",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Out Of Bundle Charges",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Important To Know",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Features",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Specifications",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "In-flight Roaming",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Product Description HTML",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Internet Calling Apps",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Category Marketing Information",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Category Description HTML",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Product Out of Bundle Charges",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Category FAQ",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Product Image",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Discount %",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Category Image",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "360 View",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Main Device Image",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Category Terms and Conditions",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Product Description",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Label",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Device Images",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Device Image",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Disconnect If TLO contract expired",
+                            "type": "String",
+                            "value": null
+                        }
+                    ]
+                },
+                "prices": [
+                    {
+                        "priceValues": [
+                            {
+                                "priceTaxExcluded": 0
+                            }
+                        ],
+                        "tax": 0,
+                        "type": "Monthly Fee",
+                        "chars": [],
+                        "currency": {
+                            "currencyCode": "AED"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "301000228",
+                "name": "Double Data Add-on - Recurrent 25 GB 12-Month Postpaid",
+                "isRoot": false,
+                "assignedTags": [
+                    {
+                        "id": "9161886435513065983",
+                        "name": "Included Allowance",
+                        "tagGroup": {
+                            "name": "Child Offering Group"
+                        }
+                    },
+                    {
+                        "id": "9164644837513222144",
+                        "name": "Recurrent Add-On",
+                        "tagGroup": null
+                    }
+                ],
+                "product": {
+                    "chars": [
+                        {
+                            "name": "Data volume",
+                            "type": "String",
+                            "value": "25 GB"
+                        },
+                        {
+                            "name": "Duration",
+                            "type": "List",
+                            "value": "12"
+                        },
+                        {
+                            "name": "Duration unit",
+                            "type": "List",
+                            "value": "Months"
+                        },
+                        {
+                            "name": "Mobile Offer Identification Number",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Allowance type",
+                            "type": "List",
+                            "value": "Recurrent pack add-on"
+                        },
+                        {
+                            "name": "Pack service type",
+                            "type": "List",
+                            "value": "Data"
+                        },
+                        {
+                            "name": "Product category",
+                            "type": "List",
+                            "value": "Data national allowance"
+                        },
+                        {
+                            "name": "Suspend reason",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Suspend reason description",
+                            "type": "String",
+                            "value": null
+                        }
+                    ],
+                    "params": [
+                        {
+                            "name": "Disconnect If TLO contract expired",
+                            "type": "String",
+                            "value": null
+                        }
+                    ]
+                },
+                "prices": [
+                    {
+                        "priceValues": [
+                            {
+                                "priceTaxExcluded": 0
+                            }
+                        ],
+                        "tax": 0,
+                        "type": "Monthly Fee",
+                        "chars": [],
+                        "currency": {
+                            "currencyCode": "AED"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "301000774",
+                "name": "Beneficial OSN Integrated",
+                "isRoot": false,
+                "assignedTags": [
+                    {
+                        "id": "9167682711413370502",
+                        "name": "OSN Integrated",
+                        "tagGroup": {
+                            "name": "Offerings Filters"
+                        }
+                    },
+                    {
+                        "id": "9167510251913234305",
+                        "name": "OTT Subscriptions",
+                        "tagGroup": {
+                            "name": "App&Web Reflection"
+                        }
+                    },
+                    {
+                        "id": "9161886438513065983",
+                        "name": "OTT",
+                        "tagGroup": {
+                            "name": "Child Offering Group"
+                        }
+                    },
+                    {
+                        "id": "9166854250413248211",
+                        "name": "OTT Framework",
+                        "tagGroup": null
+                    }
+                ],
+                "product": {
+                    "chars": [
+                        {
+                            "name": "OSN email",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Product code",
+                            "type": "String",
+                            "value": "04"
+                        },
+                        {
+                            "name": "Offer code",
+                            "type": "String",
+                            "value": "350812"
+                        },
+                        {
+                            "name": "Suspend reason",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Suspend reason description",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "OSN subscription type",
+                            "type": "List",
+                            "value": "Free"
+                        },
+                        {
+                            "name": "Expiry date",
+                            "type": "String",
+                            "value": null
+                        },
+                        {
+                            "name": "Product category",
+                            "type": "List",
+                            "value": "OTT"
+                        },
+                        {
+                            "name": "Should be as Add On in bill",
+                            "type": "List",
+                            "value": "Yes"
+                        }
+                    ],
+                    "params": [
+                        {
+                            "name": "Disconnect If TLO contract expired",
+                            "type": "String",
+                            "value": null
+                        }
+                    ]
+                },
+                "prices": [
+                    {
+                        "priceValues": [
+                            {
+                                "priceTaxExcluded": 0
+                            }
+                        ],
+                        "tax": 0,
+                        "type": "Monthly Fee",
+                        "chars": [],
+                        "currency": {
+                            "currencyCode": "AED"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "301000776",
+                "name": "Beneficial Disney+",
+                "isRoot": false,
+                "assignedTags": [
+                    {
+                        "id": "9161886438513065983",
+                        "name": "OTT",
+                        "tagGroup": {
+                            "name": "Child Offering Group"
+                        }
+                    },
+                    {
+                        "id": "9167510251913234305",
+                        "name": "OTT Subscriptions",
+                        "tagGroup": {
+                            "name": "App&Web Reflection"
+                        }
+                    },
+                    {
+                        "id": "9167917155413991252",
+                        "name": "Cannot be purchased by Fast Track",
+                        "tagGroup": {
+                            "name": "Child Offering Group"
+                        }
+                    },
+                    {
+                        "id": "9167916873013990828",
+                        "name": "Disney+",
+                        "tagGroup": null
+                    }
+                ],
+                "product": {
+                    "chars": [
+                        {
+                            "name": "Disney+ subscription type",
+                            "type": "List",
+                            "value": "Included"
+                        }
+                    ],
+                    "params": [
+                        {
+                            "name": "Disconnect If TLO contract expired",
+                            "type": "String",
+                            "value": null
+                        }
+                    ]
+                },
+                "prices": [
+                    {
+                        "priceValues": [
+                            {
+                                "priceTaxExcluded": 0
+                            }
+                        ],
+                        "tax": 0,
+                        "type": "Monthly Fee",
+                        "chars": [],
+                        "currency": {
+                            "currencyCode": "AED"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "extensions": {
+        "complexity": 29,
+        "bssListChildProductOfferings": {
+            "rangeFrom": "1",
+            "rangeTo": "9",
+            "totalCount": "9"
+        }
+    }
+}
