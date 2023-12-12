@@ -4276,7 +4276,7 @@
                     ],
                     "stock": [
                         {
-                            "checkStock": "inStock"
+                            "checkStock": "outOfStock"
                         }
                     ]
                 }
