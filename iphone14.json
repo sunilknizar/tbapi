@@ -3,9 +3,9 @@
         "bssListProductOfferings": [
             {
                 "id": "401000788",
-                "code": "iPhone 14 512GB Yellow MR513AA/A",
-                "name": "iPhone 14 512 GB Yellow",
-                "originalName": "iPhone 14 512 GB Yellow",
+                "code": "iPhone 14 1TB Yellow MR513AA/A",
+                "name": "iPhone 14 1 TB Yellow",
+                "originalName": "iPhone 14 1 TB Yellow",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-03-05T00:00:00+04:00",
@@ -202,7 +202,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "512 GB",
+                            "value": "1 TB",
                             "values": []
                         },
                         {
@@ -859,9 +859,9 @@
             },
             {
                 "id": "401000786",
-                "code": "iPhone 14 128GB Yellow MR3X3AA/A",
-                "name": "iPhone 14 128 GB Yellow",
-                "originalName": "iPhone 14 128 GB Yellow",
+                "code": "iPhone 14 256GB Yellow MR3X3AA/A",
+                "name": "iPhone 14 256 GB Yellow",
+                "originalName": "iPhone 14 256 GB Yellow",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-03-05T00:00:00+04:00",
@@ -1058,7 +1058,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "128 GB",
+                            "value": "256 GB",
                             "values": []
                         },
                         {
@@ -1715,9 +1715,9 @@
             },
             {
                 "id": "401000787",
-                "code": "iPhone 14 256GB Yellow MR3Y3AA/A",
-                "name": "iPhone 14 256 GB Yellow",
-                "originalName": "iPhone 14 256 GB Yellow",
+                "code": "iPhone 14 512GB Yellow MR3Y3AA/A",
+                "name": "iPhone 14 512 GB Yellow",
+                "originalName": "iPhone 14 512 GB Yellow",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-03-05T00:00:00+04:00",
@@ -1914,7 +1914,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "256 GB",
+                            "value": "512 GB",
                             "values": []
                         },
                         {
@@ -2571,9 +2571,9 @@
             },
             {
                 "id": "401000736",
-                "code": "iPhone 14 512GB Starlight MPX33AA/A",
-                "name": "iPhone 14 512 GB Starlight",
-                "originalName": "iPhone 14 512 GB Starlight",
+                "code": "iPhone 14 1TB Starlight MPX33AA/A",
+                "name": "iPhone 14 1 TB Starlight",
+                "originalName": "iPhone 14 1 TB Starlight",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -2770,7 +2770,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "512 GB",
+                            "value": "1 TB",
                             "values": []
                         },
                         {
@@ -3427,9 +3427,9 @@
             },
             {
                 "id": "401000737",
-                "code": "iPhone 14 512GB Blue MPXN3AA/A",
-                "name": "iPhone 14 512 GB Blue",
-                "originalName": "iPhone 14 512 GB Blue",
+                "code": "iPhone 14 1TB Blue MPXN3AA/A",
+                "name": "iPhone 14 1 TB Blue",
+                "originalName": "iPhone 14 1 TB Blue",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -3626,7 +3626,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "512 GB",
+                            "value": "1 TB",
                             "values": []
                         },
                         {
@@ -4283,9 +4283,9 @@
             },
             {
                 "id": "401000752",
-                "code": "iPhone 14 512GB RED MPXG3AA/A",
-                "name": "iPhone 14 512 GB RED",
-                "originalName": "iPhone 14 512 GB RED",
+                "code": "iPhone 14 1TB RED MPXG3AA/A",
+                "name": "iPhone 14 1 TB RED",
+                "originalName": "iPhone 14 1 TB RED",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -5139,9 +5139,9 @@
             },
             {
                 "id": "401000753",
-                "code": "iPhone 14 512GB Purple MPX93AA/A",
-                "name": "iPhone 14 512 GB Purple",
-                "originalName": "iPhone 14 512 GB Purple",
+                "code": "iPhone 14 1TB Purple MPX93AA/A",
+                "name": "iPhone 14 1 TB Purple",
+                "originalName": "iPhone 14 1 TB Purple",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -5338,7 +5338,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "512 GB",
+                            "value": "1 TB",
                             "values": []
                         },
                         {
@@ -5995,9 +5995,9 @@
             },
             {
                 "id": "401000726",
-                "code": "iPhone 14 128GB Starlight MPUR3AA/A",
-                "name": "iPhone 14 128 GB Starlight",
-                "originalName": "iPhone 14 128 GB Starlight",
+                "code": "iPhone 14 256GB Starlight MPUR3AA/A",
+                "name": "iPhone 14 256 GB Starlight",
+                "originalName": "iPhone 14 256 GB Starlight",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -6374,7 +6374,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "128 GB",
+                            "value": "256 GB",
                             "values": []
                         },
                         {
@@ -7031,9 +7031,9 @@
             },
             {
                 "id": "401000727",
-                "code": "iPhone 14 128GB Purple MPV03AA/A",
-                "name": "iPhone 14 128 GB Purple",
-                "originalName": "iPhone 14 128 GB Purple",
+                "code": "iPhone 14 256GB Purple MPV03AA/A",
+                "name": "iPhone 14 256 GB Purple",
+                "originalName": "iPhone 14 256 GB Purple",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -7410,7 +7410,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "128 GB",
+                            "value": "256 GB",
                             "values": []
                         },
                         {
@@ -8067,9 +8067,9 @@
             },
             {
                 "id": "401000725",
-                "code": "iPhone 14 128GB Midnight MPUF3AA/A",
-                "name": "iPhone 14 128 GB Midnight",
-                "originalName": "iPhone 14 128 GB Midnight",
+                "code": "iPhone 14 256GB Midnight MPUF3AA/A",
+                "name": "iPhone 14 256 GB Midnight",
+                "originalName": "iPhone 14 256 GB Midnight",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -8446,7 +8446,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "128 GB",
+                            "value": "256 GB",
                             "values": []
                         },
                         {
@@ -9103,9 +9103,9 @@
             },
             {
                 "id": "401000734",
-                "code": "iPhone 14 256GB Blue MPWP3AA/A",
-                "name": "iPhone 14 256 GB Blue",
-                "originalName": "iPhone 14 256 GB Blue",
+                "code": "iPhone 14 512GB Blue MPWP3AA/A",
+                "name": "iPhone 14 512 GB Blue",
+                "originalName": "iPhone 14 512 GB Blue",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -9302,7 +9302,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "256 GB",
+                            "value": "512 GB",
                             "values": []
                         },
                         {
@@ -9959,9 +9959,9 @@
             },
             {
                 "id": "401000735",
-                "code": "iPhone 14 512GB Midnight MPWW3AA/A",
-                "name": "iPhone 14 512 GB Midnight",
-                "originalName": "iPhone 14 512 GB Midnight",
+                "code": "iPhone 14 1TB Midnight MPWW3AA/A",
+                "name": "iPhone 14 1 TB Midnight",
+                "originalName": "iPhone 14 1 TB Midnight",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -10158,7 +10158,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "512 GB",
+                            "value": "1 TB",
                             "values": []
                         },
                         {
@@ -10815,9 +10815,9 @@
             },
             {
                 "id": "401000732",
-                "code": "iPhone 14 256GB Purple MPWA3AA/A",
-                "name": "iPhone 14 256 GB Purple",
-                "originalName": "iPhone 14 256 GB Purple",
+                "code": "iPhone 14 512GB Purple MPWA3AA/A",
+                "name": "iPhone 14 512 GB Purple",
+                "originalName": "iPhone 14 512 GB Purple",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -11014,7 +11014,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "256 GB",
+                            "value": "512 GB",
                             "values": []
                         },
                         {
@@ -11671,9 +11671,9 @@
             },
             {
                 "id": "401000733",
-                "code": "iPhone 14 256GB (PRODUCT)RED MPWH3AA/A",
-                "name": "iPhone 14 256 GB (PRODUCT)RED",
-                "originalName": "iPhone 14 256 GB (PRODUCT)RED",
+                "code": "iPhone 14 512GB (PRODUCT)RED MPWH3AA/A",
+                "name": "iPhone 14 512 GB (PRODUCT)RED",
+                "originalName": "iPhone 14 512 GB (PRODUCT)RED",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -11870,7 +11870,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "256 GB",
+                            "value": "512 GB",
                             "values": []
                         },
                         {
@@ -12527,9 +12527,9 @@
             },
             {
                 "id": "401000730",
-                "code": "iPhone 14 256GB Midnight MPVX3AA/A",
-                "name": "iPhone 14 256 GB Midnight",
-                "originalName": "iPhone 14 256 GB Midnight",
+                "code": "iPhone 14 512GB Midnight MPVX3AA/A",
+                "name": "iPhone 14 512 GB Midnight",
+                "originalName": "iPhone 14 512 GB Midnight",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -12726,7 +12726,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "256 GB",
+                            "value": "512 GB",
                             "values": []
                         },
                         {
@@ -13383,9 +13383,9 @@
             },
             {
                 "id": "401000731",
-                "code": "iPhone 14 256GB Starlight MPW43AA/A",
-                "name": "iPhone 14 256 GB Starlight",
-                "originalName": "iPhone 14 256 GB Starlight",
+                "code": "iPhone 14 512GB Starlight MPW43AA/A",
+                "name": "iPhone 14 512 GB Starlight",
+                "originalName": "iPhone 14 512 GB Starlight",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -13582,7 +13582,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "256 GB",
+                            "value": "512 GB",
                             "values": []
                         },
                         {
@@ -14239,9 +14239,9 @@
             },
             {
                 "id": "401000728",
-                "code": "iPhone 14 128GB (PRODUCT)RED MPVA3AA/A",
-                "name": "iPhone 14 128 GB (PRODUCT)RED",
-                "originalName": "iPhone 14 128 GB (PRODUCT)RED",
+                "code": "iPhone 14 256GB (PRODUCT)RED MPVA3AA/A",
+                "name": "iPhone 14 256 GB (PRODUCT)RED",
+                "originalName": "iPhone 14 256 GB (PRODUCT)RED",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -14618,7 +14618,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "128 GB",
+                            "value": "256 GB",
                             "values": []
                         },
                         {
@@ -15275,9 +15275,9 @@
             },
             {
                 "id": "401000729",
-                "code": "iPhone 14 128GB Blue MPVN3AA/A",
-                "name": "iPhone 14 128 GB Blue",
-                "originalName": "iPhone 14 128 GB Blue",
+                "code": "iPhone 14 256GB Blue MPVN3AA/A",
+                "name": "iPhone 14 256 GB Blue",
+                "originalName": "iPhone 14 256 GB Blue",
                 "description": null,
                 "originalDescription": null,
                 "availableFrom": "2023-01-30T00:00:00+04:00",
@@ -15654,7 +15654,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "128 GB",
+                            "value": "256 GB",
                             "values": []
                         },
                         {
