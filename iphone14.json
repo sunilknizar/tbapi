@@ -4482,7 +4482,7 @@
                         {
                             "name": "Memory size",
                             "type": "String",
-                            "value": "512 GB",
+                            "value": "1 TB",
                             "values": []
                         },
                         {
