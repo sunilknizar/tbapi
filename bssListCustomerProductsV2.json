@@ -1,0 +1,1436 @@
+{
+  "data": {
+    "bssListCustomerProductsV2": [
+      {
+        "id": "9168435870013175273",
+        "name": "Business Mobile Unlimited 600 12M",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870913174023",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "1",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "1",
+        "offer": {
+          "id": "601000041",
+          "isRoot": true,
+          "assignedTags": [
+            {
+              "name": "International & National mins"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "Service type",
+                "value": "Data&Voice"
+              },
+              {
+                "name": "Contract term",
+                "value": "12"
+              },
+              {
+                "name": "Contract commitment active",
+                "value": "Yes"
+              },
+              {
+                "name": "Data enabled",
+                "value": "Yes"
+              },
+              {
+                "name": "SMS enabled",
+                "value": "Yes"
+              },
+              {
+                "name": "Voice enabled",
+                "value": "Yes"
+              },
+              {
+                "name": "Roaming enabled",
+                "value": "Yes"
+              },
+              {
+                "name": "Easy roaming",
+                "value": "No"
+              },
+              {
+                "name": "Ringback tone",
+                "value": "No"
+              },
+              {
+                "name": "Voice over LTE",
+                "value": "Yes"
+              },
+              {
+                "name": "MSISDN",
+                "value": null
+              },
+              {
+                "name": "MSISDN (Text)",
+                "value": null
+              },
+              {
+                "name": "Suspend reason",
+                "value": null
+              },
+              {
+                "name": "Suspend reason description",
+                "value": null
+              },
+              {
+                "name": "Cancellation reason",
+                "value": null
+              },
+              {
+                "name": "Disconnect reason",
+                "value": null
+              },
+              {
+                "name": "Disconnect reason description",
+                "value": null
+              },
+              {
+                "name": "Plan type",
+                "value": "Postpaid"
+              },
+              {
+                "name": "Mobile Offer Identification Number",
+                "value": null
+              },
+              {
+                "name": "Last port-in date",
+                "value": null
+              },
+              {
+                "name": "Primary SIM IMSI",
+                "value": null
+              },
+              {
+                "name": "Additional SIM IMSI",
+                "value": null
+              },
+              {
+                "name": "Business family",
+                "value": "Business Mobile Plan"
+              },
+              {
+                "name": "Number category",
+                "value": null
+              },
+              {
+                "name": "Product category",
+                "value": "Base plan"
+              },
+              {
+                "name": "Sales order ID",
+                "value": null
+              },
+              {
+                "name": "Sales order sequence number",
+                "value": null
+              },
+              {
+                "name": "Rating pulse",
+                "value": "Minute"
+              },
+              {
+                "name": "Prolongation",
+                "value": "No"
+              },
+              {
+                "name": "IDD special rate",
+                "value": null
+              },
+              {
+                "name": "Contract expiry action",
+                "value": "Stay"
+              },
+              {
+                "name": "Enable 5g standalone",
+                "value": "No"
+              },
+              {
+                "name": "Target plan for automatic downgrade",
+                "value": null
+              },
+              {
+                "name": "Is contract prolongation supported",
+                "value": "No"
+              },
+              {
+                "name": "Rating tariff",
+                "value": null
+              },
+              {
+                "name": "Target plan after contract expiry",
+                "value": null
+              },
+              {
+                "name": "In bundle roaming",
+                "value": "Yes"
+              },
+              {
+                "name": "Hardcap allowed",
+                "value": "No"
+              },
+              {
+                "name": "Target customer account",
+                "value": null
+              },
+              {
+                "name": "Target individual",
+                "value": null
+              },
+              {
+                "name": "Legacy rate plan code",
+                "value": null
+              },
+              {
+                "name": "Legacy contract code",
+                "value": null
+              },
+              {
+                "name": "Disable roaming",
+                "value": "No"
+              },
+              {
+                "name": "Court case emirate",
+                "value": null
+              },
+              {
+                "name": "Court case number",
+                "value": null
+              },
+              {
+                "name": "Contract end date",
+                "value": null
+              },
+              {
+                "name": "Billing activation date",
+                "value": null
+              }
+            ],
+            "params": [
+              {
+                "name": "KYC trigger",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              },
+              {
+                "name": "Mobile Line",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              },
+              {
+                "name": "Offering name",
+                "values": []
+              },
+              {
+                "name": "Out Of Bundle Charges",
+                "values": []
+              },
+              {
+                "name": "Important To Know",
+                "values": []
+              },
+              {
+                "name": "Features",
+                "values": []
+              },
+              {
+                "name": "Specifications",
+                "values": []
+              },
+              {
+                "name": "In-flight Roaming",
+                "values": []
+              },
+              {
+                "name": "Product Description HTML",
+                "values": []
+              },
+              {
+                "name": "Internet Calling Apps",
+                "values": []
+              },
+              {
+                "name": "Category Marketing Information",
+                "values": []
+              },
+              {
+                "name": "Category Description HTML",
+                "values": []
+              },
+              {
+                "name": "Category FAQ",
+                "values": []
+              },
+              {
+                "name": "Product Out of Bundle Charges",
+                "values": [
+                  {
+                    "value": "outOfBundleChargesEnt"
+                  }
+                ]
+              },
+              {
+                "name": "Product Image",
+                "values": []
+              },
+              {
+                "name": "Discount %",
+                "values": []
+              },
+              {
+                "name": "Category Image",
+                "values": []
+              },
+              {
+                "name": "360 View",
+                "values": []
+              },
+              {
+                "name": "Main Device Image",
+                "values": []
+              },
+              {
+                "name": "Product Description",
+                "values": []
+              },
+              {
+                "name": "Category Terms and Conditions",
+                "values": []
+              },
+              {
+                "name": "Label",
+                "values": []
+              },
+              {
+                "name": "Device Image",
+                "values": []
+              },
+              {
+                "name": "Device Images",
+                "values": []
+              },
+              {
+                "name": "Continue to use plan",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "chars": {
+          "Voice enabled": "Yes",
+          "Enable 5g standalone": "No",
+          "MSISDN": "9168383168913720559",
+          "Contract commitment active": "Yes",
+          "Contract end date": "2024-12-01T15:13:21",
+          "Contract term": "12",
+          "Is contract prolongation supported": "No",
+          "Business family": "Business Mobile Plan",
+          "Roaming enabled": "Yes",
+          "Disable roaming": "No",
+          "Mobile Offer Identification Number": "1000000000000001660",
+          "Contract expiry action": "Stay",
+          "Billing activation date": "2023-12-01T15:13:21",
+          "Easy roaming": "No",
+          "Voice over LTE": "Yes",
+          "Data enabled": "Yes",
+          "Service type": "Data&Voice",
+          "In bundle roaming": "Yes",
+          "MSISDN (Text)": "971557801638",
+          "Rating pulse": "Minute",
+          "Product category": "Base plan",
+          "SMS enabled": "Yes",
+          "Ringback tone": "No",
+          "Plan type": "Postpaid"
+        }
+      },
+      {
+        "id": "9168488036513688993",
+        "name": "Included Voice Incoming Roaming 100min",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "11",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "11",
+        "offer": {
+          "id": "601000895",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "Included Allowance"
+            },
+            {
+              "name": "Roaming Add-On"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "Voice volume",
+                "value": null
+              },
+              {
+                "name": "Voice incoming volume",
+                "value": "100 Min"
+              },
+              {
+                "name": "Voice outgoing volume",
+                "value": null
+              },
+              {
+                "name": "Mobile Offer Identification Number",
+                "value": null
+              },
+              {
+                "name": "Zone",
+                "value": "Zone A"
+              },
+              {
+                "name": "Allowance type",
+                "value": "Roaming included allowance"
+              },
+              {
+                "name": "Pack service type",
+                "value": "Voice"
+              },
+              {
+                "name": "Product category",
+                "value": "Voice roaming allowance"
+              }
+            ],
+            "params": []
+          }
+        },
+        "chars": {
+          "Product category": "Voice roaming allowance",
+          "Mobile Offer Identification Number": "1000000000000001660",
+          "Allowance type": "Roaming included allowance",
+          "Zone": "Zone A",
+          "Pack service type": "Voice",
+          "Voice incoming volume": "100 Min"
+        }
+      },
+      {
+        "id": "9168470087013361428",
+        "name": "Included Voice National Unlimited",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "8",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "8",
+        "offer": {
+          "id": "601000084",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "Included Allowance"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "Voice volume",
+                "value": "Unlimited"
+              },
+              {
+                "name": "International zone",
+                "value": null
+              },
+              {
+                "name": "Mobile Offer Identification Number",
+                "value": null
+              },
+              {
+                "name": "Allowance type",
+                "value": "Included allowance"
+              },
+              {
+                "name": "Pack service type",
+                "value": "Voice"
+              },
+              {
+                "name": "Product category",
+                "value": "Voice national allowance"
+              }
+            ],
+            "params": []
+          }
+        },
+        "chars": {
+          "Product category": "Voice international allowance",
+          "Mobile Offer Identification Number": "1000000000000001660",
+          "Allowance type": "Included allowance",
+          "Pack service type": "Voice",
+          "International zone": "IDD Zone 190 Countries",
+          "Voice volume": "600 Min"
+        }
+      },
+      {
+        "id": "9168488034513688993",
+        "name": "Included Voice Outgoing Roaming 200min",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "12",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "12",
+        "offer": {
+          "id": "601000896",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "Included Allowance"
+            },
+            {
+              "name": "Roaming Add-On"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "Voice volume",
+                "value": null
+              },
+              {
+                "name": "Voice incoming volume",
+                "value": null
+              },
+              {
+                "name": "Voice outgoing volume",
+                "value": "200 Min"
+              },
+              {
+                "name": "Mobile Offer Identification Number",
+                "value": null
+              },
+              {
+                "name": "Zone",
+                "value": "Zone A"
+              },
+              {
+                "name": "Allowance type",
+                "value": "Roaming included allowance"
+              },
+              {
+                "name": "Pack service type",
+                "value": "Voice"
+              },
+              {
+                "name": "Product category",
+                "value": "Voice roaming allowance"
+              }
+            ],
+            "params": []
+          }
+        },
+        "chars": {
+          "Product category": "Voice roaming allowance",
+          "Mobile Offer Identification Number": "1000000000000001660",
+          "Allowance type": "Roaming included allowance",
+          "Zone": "Zone A",
+          "Pack service type": "Voice",
+          "Voice outgoing volume": "200 Min"
+        }
+      },
+      {
+        "id": "9168470088013361428",
+        "name": "Included Voice International Unlimited",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "9",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "9",
+        "offer": {
+          "id": "601000105",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "Included Allowance"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "Voice volume",
+                "value": "Unlimited"
+              },
+              {
+                "name": "International zone",
+                "value": "IDD Zone 190 Countries"
+              },
+              {
+                "name": "Mobile Offer Identification Number",
+                "value": null
+              },
+              {
+                "name": "Allowance type",
+                "value": "Included allowance"
+              },
+              {
+                "name": "Pack service type",
+                "value": "Voice"
+              },
+              {
+                "name": "Product category",
+                "value": "Voice international allowance"
+              }
+            ],
+            "params": []
+          }
+        },
+        "chars": {
+          "Product category": "Voice national allowance",
+          "Mobile Offer Identification Number": "1000000000000001660",
+          "Allowance type": "Included allowance",
+          "Pack service type": "Voice",
+          "Voice volume": "600 Min"
+        }
+      },
+      {
+        "id": "9168470089013361428",
+        "name": "Included SMS National 300",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "10",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "10",
+        "offer": {
+          "id": "601000127",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "Included Allowance"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "SMS volume",
+                "value": "300"
+              },
+              {
+                "name": "International zone",
+                "value": null
+              },
+              {
+                "name": "Mobile Offer Identification Number",
+                "value": null
+              },
+              {
+                "name": "Allowance type",
+                "value": "Included allowance"
+              },
+              {
+                "name": "Product category",
+                "value": "SMS national allowance"
+              },
+              {
+                "name": "Pack service type",
+                "value": "SMS"
+              }
+            ],
+            "params": []
+          }
+        },
+        "chars": {
+          "SMS volume": "300",
+          "Product category": "SMS national allowance",
+          "Mobile Offer Identification Number": "1000000000000001660",
+          "Allowance type": "Included allowance",
+          "Pack service type": "SMS"
+        }
+      },
+      {
+        "id": "9168435874013175273",
+        "name": "Voicemail",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "3",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "3",
+        "offer": {
+          "id": "601000788",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "Calling Feature"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "Product category",
+                "value": "VAS"
+              },
+              {
+                "name": "Suspend reason",
+                "value": null
+              },
+              {
+                "name": "Suspend reason description",
+                "value": null
+              }
+            ],
+            "params": []
+          }
+        },
+        "chars": {
+          "Product category": "VAS"
+        }
+      },
+      {
+        "id": "9168488035513688993",
+        "name": "Beneficial Internet Calling Pack",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "13",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "13",
+        "offer": {
+          "id": "601000206",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "ICP"
+            },
+            {
+              "name": "Included Allowance"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "Product category",
+                "value": "Internet calling pack"
+              },
+              {
+                "name": "Mobile Offer Identification Number",
+                "value": null
+              },
+              {
+                "name": "Allowance type",
+                "value": "Included allowance"
+              }
+            ],
+            "params": []
+          }
+        },
+        "chars": {
+          "Product category": "Internet calling pack",
+          "Mobile Offer Identification Number": "1000000000000001660",
+          "Allowance type": "Included allowance"
+        }
+      },
+      {
+        "id": "9168435873013175273",
+        "name": "Included Voice CUG 10000min",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "7",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "7",
+        "offer": {
+          "id": "601000145",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "Included Allowance"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "Voice volume",
+                "value": "10000 Min"
+              },
+              {
+                "name": "Mobile Offer Identification Number",
+                "value": null
+              },
+              {
+                "name": "Allowance type",
+                "value": "Included allowance"
+              },
+              {
+                "name": "Product category",
+                "value": "Voice CUG allowance"
+              },
+              {
+                "name": "Pack service type",
+                "value": "Voice"
+              }
+            ],
+            "params": []
+          }
+        },
+        "chars": {
+          "Product category": "Voice CUG allowance",
+          "Mobile Offer Identification Number": "1000000000000001660",
+          "Allowance type": "Included allowance",
+          "Pack service type": "Voice",
+          "Voice volume": "10000 Min"
+        }
+      },
+      {
+        "id": "9168435875013175273",
+        "name": "Included SMS International 300",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "6",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "6",
+        "offer": {
+          "id": "601000132",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "Included Allowance"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "SMS volume",
+                "value": "300"
+              },
+              {
+                "name": "International zone",
+                "value": "IDD Zone 190 Countries"
+              },
+              {
+                "name": "Mobile Offer Identification Number",
+                "value": null
+              },
+              {
+                "name": "Allowance type",
+                "value": "Included allowance"
+              },
+              {
+                "name": "Product category",
+                "value": "SMS international allowance"
+              },
+              {
+                "name": "Pack service type",
+                "value": "SMS"
+              }
+            ],
+            "params": []
+          }
+        },
+        "chars": {
+          "SMS volume": "130",
+          "Product category": "SMS national allowance",
+          "Mobile Offer Identification Number": "1000000000000001660",
+          "Allowance type": "Included allowance",
+          "Pack service type": "SMS"
+        }
+      },
+      {
+        "id": "9168435872013175273",
+        "name": "Conference Calling",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "5",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "5",
+        "offer": {
+          "id": "601000789",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "Calling Feature"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "Product category",
+                "value": "VAS"
+              },
+              {
+                "name": "Suspend reason",
+                "value": null
+              },
+              {
+                "name": "Suspend reason description",
+                "value": null
+              }
+            ],
+            "params": []
+          }
+        },
+        "chars": {
+          "Product category": "VAS"
+        }
+      },
+      {
+        "id": "9168435878013175274",
+        "name": "In Store #24823",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870913174023",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": null,
+        "status": "Completed",
+        "customerRef": null,
+        "productSequence": null,
+        "offer": {
+          "id": "601000778",
+          "isRoot": true,
+          "assignedTags": [
+            {
+              "name": "Delivery TLO"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "Contact name",
+                "value": null
+              },
+              {
+                "name": "Contact phone number",
+                "value": null
+              },
+              {
+                "name": "Preferred communication language",
+                "value": "English"
+              },
+              {
+                "name": "Alternative phone number",
+                "value": null
+              },
+              {
+                "name": "Emirates ID",
+                "value": null
+              },
+              {
+                "name": "Email",
+                "value": null
+              },
+              {
+                "name": "Country",
+                "value": "United Arab Emirates"
+              },
+              {
+                "name": "Emirate",
+                "value": null
+              },
+              {
+                "name": "City",
+                "value": null
+              },
+              {
+                "name": "Area",
+                "value": null
+              },
+              {
+                "name": "Street",
+                "value": null
+              },
+              {
+                "name": "Building name/number",
+                "value": null
+              },
+              {
+                "name": "Floor number",
+                "value": null
+              },
+              {
+                "name": "Unit number",
+                "value": null
+              },
+              {
+                "name": "Plot name/number",
+                "value": null
+              },
+              {
+                "name": "Postal code",
+                "value": null
+              },
+              {
+                "name": "P.O.Box",
+                "value": null
+              },
+              {
+                "name": "Nearest landmark",
+                "value": null
+              },
+              {
+                "name": "Delivery date",
+                "value": null
+              },
+              {
+                "name": "Delivery time",
+                "value": null
+              },
+              {
+                "name": "KYC method",
+                "value": "Physical KYC"
+              },
+              {
+                "name": "Receiver name",
+                "value": null
+              },
+              {
+                "name": "Receiver emirates ID",
+                "value": null
+              },
+              {
+                "name": "Notes",
+                "value": null
+              },
+              {
+                "name": "Compatible equipment types",
+                "value": null
+              },
+              {
+                "name": "Delivery type",
+                "value": "In-store"
+              },
+              {
+                "name": "Store",
+                "value": "pSIM warehouse"
+              },
+              {
+                "name": "Point of sale",
+                "value": null
+              },
+              {
+                "name": "KYC by courier",
+                "value": null
+              },
+              {
+                "name": "Contract by courier",
+                "value": null
+              },
+              {
+                "name": "Sales order ID",
+                "value": null
+              },
+              {
+                "name": "Sales order sequence number",
+                "value": null
+              },
+              {
+                "name": "Exclude from on-demand",
+                "value": "False"
+              },
+              {
+                "name": "Product category",
+                "value": "Free units"
+              },
+              {
+                "name": "Nominee is added",
+                "value": "No"
+              },
+              {
+                "name": "City (text)",
+                "value": null
+              },
+              {
+                "name": "Emirate (text)",
+                "value": null
+              },
+              {
+                "name": "Country (text)",
+                "value": "United Arab Emirates"
+              }
+            ],
+            "params": [
+              {
+                "name": "In Store Delivery",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "chars": {
+          "Product category": "Free units",
+          "Country (text)": "United Arab Emirates",
+          "Point of sale": "CODB07",
+          "Country": "United Arab Emirates",
+          "Store": "pSIM warehouse",
+          "Delivery type": "In-store"
+        }
+      },
+      {
+        "id": "9168470737113555698",
+        "name": "Bar Data Roaming",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": null,
+        "productSequenceNumber": null,
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": null,
+        "offer": {
+          "id": "601000782",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "Barring"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "Barring type",
+                "value": "Data roaming"
+              },
+              {
+                "name": "Barring initiator",
+                "value": "Customer"
+              },
+              {
+                "name": "Barring reason",
+                "value": "Voluntary Roaming Data barring"
+              },
+              {
+                "name": "Is technical barring",
+                "value": "No"
+              }
+            ],
+            "params": []
+          }
+        },
+        "chars": {
+          "Barring type": "Data roaming",
+          "Barring reason": "Voluntary Roaming Data barring",
+          "Barring initiator": "Customer",
+          "Is technical barring": "No"
+        }
+      },
+      {
+        "id": "9168435876013175273",
+        "name": "Phone Number #24822",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": null,
+        "productSequenceNumber": null,
+        "status": "Completed",
+        "customerRef": null,
+        "productSequence": null,
+        "offer": {
+          "id": "601000790",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "Phone Number"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "MSISDN",
+                "value": null
+              },
+              {
+                "name": "Number category",
+                "value": "Regular"
+              },
+              {
+                "name": "Passcode",
+                "value": null
+              }
+            ],
+            "params": [
+              {
+                "name": "KYC trigger",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              },
+              {
+                "name": "Phone Number",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "chars": {
+          "MSISDN": "9168383168913720559",
+          "Number category": "Regular"
+        }
+      },
+      {
+        "id": "9168435871013175273",
+        "name": "Primary SIM Card",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "2",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "2",
+        "offer": {
+          "id": "601000207",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "SIM Card"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "ICCID",
+                "value": null
+              },
+              {
+                "name": "Delivery method",
+                "value": null
+              },
+              {
+                "name": "SIM replacement reason",
+                "value": null
+              },
+              {
+                "name": "SIM card type",
+                "value": "Physical SIM"
+              },
+              {
+                "name": "Equipment type",
+                "value": "SIM card"
+              },
+              {
+                "name": "Confirmation link",
+                "value": null
+              },
+              {
+                "name": "SIM technical ID",
+                "value": null
+              },
+              {
+                "name": "Main SIM",
+                "value": "Yes"
+              },
+              {
+                "name": "eSIM EID",
+                "value": null
+              },
+              {
+                "name": "IMSI",
+                "value": null
+              },
+              {
+                "name": "SIM card activation date",
+                "value": null
+              },
+              {
+                "name": "SIM card nickname",
+                "value": null
+              },
+              {
+                "name": "Model",
+                "value": "pSIM model"
+              },
+              {
+                "name": "SIM card type (Text)",
+                "value": null
+              },
+              {
+                "name": "ICCID (Text)",
+                "value": null
+              },
+              {
+                "name": "Product category",
+                "value": "SIM card"
+              },
+              {
+                "name": "MSISDN",
+                "value": null
+              },
+              {
+                "name": "Technical MSISDN",
+                "value": null
+              },
+              {
+                "name": "Additional SIM added",
+                "value": "No"
+              },
+              {
+                "name": "Delivery type",
+                "value": null
+              },
+              {
+                "name": "SIM card network type",
+                "value": "4G"
+              },
+              {
+                "name": "Carrier privilege rules",
+                "value": null
+              },
+              {
+                "name": "eSIM installation status",
+                "value": "Un-installed"
+              },
+              {
+                "name": "Old eSIM EID",
+                "value": null
+              },
+              {
+                "name": "SIM reuse for CHOWN",
+                "value": "No"
+              },
+              {
+                "name": "Blank SIM",
+                "value": "No"
+              },
+              {
+                "name": "2G service enabled",
+                "value": "No"
+              },
+              {
+                "name": "Last sim swap date",
+                "value": null
+              },
+              {
+                "name": "Technical MSISDN (Text)",
+                "value": null
+              }
+            ],
+            "params": [
+              {
+                "name": "KYC trigger",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              },
+              {
+                "name": "SIM Card",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "chars": {
+          "ICCID": "8997101010005011594",
+          "SIM technical ID": "9168435870513174634",
+          "2G service enabled": "No",
+          "Additional SIM added": "No",
+          "Equipment type": "SIM card",
+          "MSISDN": "9168383168913720559",
+          "SIM card type (Text)": "Physical SIM",
+          "Delivery method": "9168435874113174843",
+          "SIM card type": "Physical SIM",
+          "Main SIM": "Yes",
+          "Product category": "SIM card",
+          "SIM card network type": "4G",
+          "ICCID (Text)": "8997101010005011594",
+          "IMSI": "424031000501159",
+          "Model": "pSIM model",
+          "Delivery type": "In-store",
+          "eSIM installation status": "Un-installed"
+        }
+      },
+      {
+        "id": "9168435877013175274",
+        "name": "Included Data National Unlimited",
+        "locationId": "9168435875113174126",
+        "parentId": "9168435870013175273",
+        "billingAccountId": "9168435873513174229",
+        "productSequenceNumber": "4",
+        "status": "Active",
+        "customerRef": "1000165282",
+        "productSequence": "4",
+        "offer": {
+          "id": "601000063",
+          "isRoot": false,
+          "assignedTags": [
+            {
+              "name": "Included Allowance"
+            }
+          ],
+          "product": {
+            "chars": [
+              {
+                "name": "Data volume",
+                "value": "Unlimited"
+              },
+              {
+                "name": "Mobile Offer Identification Number",
+                "value": null
+              },
+              {
+                "name": "Allowance type",
+                "value": "Included allowance"
+              },
+              {
+                "name": "Pack service type",
+                "value": "Data"
+              },
+              {
+                "name": "Product category",
+                "value": "Data national allowance"
+              }
+            ],
+            "params": []
+          }
+        },
+        "chars": {
+          "Data volume": "2 GB",
+          "Product category": "Data national allowance",
+          "Mobile Offer Identification Number": "1000000000000001660",
+          "Allowance type": "Included allowance",
+          "Pack service type": "Data"
+        }
+      }
+    ]
+  },
+  "extensions": {
+    "complexity": 24,
+    "bssListCustomerProductsV2": {
+      "rangeFrom": "1",
+      "rangeTo": "16",
+      "totalCount": "16"
+    }
+  }
+}
