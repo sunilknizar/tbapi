@@ -1,0 +1,1192 @@
+{
+    "data": {
+        "bssListCustomerProductsV2": [
+            {
+                "id": "4168599975200259515",
+                "name": "In-store #196449",
+                "locationId": "4168599966000255841",
+                "parentId": "4168599965800255741",
+                "billingAccountId": "4168599967400256250",
+                "productSequenceNumber": null,
+                "status": "Completed",
+                "customerRef": "1000172146",
+                "productSequence": null,
+                "offer": {
+                    "id": "101000143",
+                    "isRoot": true,
+                    "assignedTags": [
+                        {
+                            "name": "Delivery TLO"
+                        }
+                    ],
+                    "product": {
+                        "chars": [
+                            {
+                                "name": "Contact name",
+                                "value": null
+                            },
+                            {
+                                "name": "Contact phone number",
+                                "value": null
+                            },
+                            {
+                                "name": "Country",
+                                "value": "United Arab Emirates"
+                            },
+                            {
+                                "name": "Emirate",
+                                "value": null
+                            },
+                            {
+                                "name": "City",
+                                "value": null
+                            },
+                            {
+                                "name": "Area",
+                                "value": null
+                            },
+                            {
+                                "name": "Street",
+                                "value": null
+                            },
+                            {
+                                "name": "Building name/number",
+                                "value": null
+                            },
+                            {
+                                "name": "Unit number",
+                                "value": null
+                            },
+                            {
+                                "name": "Floor number",
+                                "value": null
+                            },
+                            {
+                                "name": "P.O.Box",
+                                "value": null
+                            },
+                            {
+                                "name": "Postal code",
+                                "value": null
+                            },
+                            {
+                                "name": "Notes",
+                                "value": null
+                            },
+                            {
+                                "name": "Compatible equipment types",
+                                "value": null
+                            },
+                            {
+                                "name": "Delivery type",
+                                "value": "In-store"
+                            },
+                            {
+                                "name": "Store",
+                                "value": "pSIM warehouse"
+                            },
+                            {
+                                "name": "Point of sale",
+                                "value": null
+                            },
+                            {
+                                "name": "KYC by courier",
+                                "value": null
+                            },
+                            {
+                                "name": "Contract by courier",
+                                "value": null
+                            },
+                            {
+                                "name": "Sales order ID",
+                                "value": null
+                            },
+                            {
+                                "name": "Sales order sequence number",
+                                "value": null
+                            },
+                            {
+                                "name": "Exclude from on-demand",
+                                "value": "False"
+                            },
+                            {
+                                "name": "Product category",
+                                "value": "Free units"
+                            },
+                            {
+                                "name": "City (text)",
+                                "value": null
+                            },
+                            {
+                                "name": "Emirate (text)",
+                                "value": null
+                            },
+                            {
+                                "name": "Country (text)",
+                                "value": "United Arab Emirates"
+                            }
+                        ],
+                        "params": [
+                            {
+                                "name": "In Store Delivery",
+                                "values": []
+                            }
+                        ]
+                    }
+                },
+                "chars": {
+                    "Product category": "Free units",
+                    "Country (text)": "United Arab Emirates",
+                    "Point of sale": "CODB07",
+                    "Country": "United Arab Emirates",
+                    "Store": "pSIM warehouse",
+                    "Delivery type": "In-store"
+                }
+            },
+            {
+                "id": "4168599972200259515",
+                "name": "Primary SIM Card - Postpaid",
+                "locationId": "4168599966000255841",
+                "parentId": "4168599975100259515",
+                "billingAccountId": "4168599967400256250",
+                "productSequenceNumber": "2",
+                "status": "Disconnected",
+                "customerRef": "1000172146",
+                "productSequence": "2",
+                "offer": {
+                    "id": "301000062",
+                    "isRoot": false,
+                    "assignedTags": [
+                        {
+                            "name": "SIM Card"
+                        }
+                    ],
+                    "product": {
+                        "chars": [
+                            {
+                                "name": "ICCID",
+                                "value": null
+                            },
+                            {
+                                "name": "Delivery method",
+                                "value": null
+                            },
+                            {
+                                "name": "SIM replacement reason",
+                                "value": null
+                            },
+                            {
+                                "name": "SIM card type",
+                                "value": "Physical SIM"
+                            },
+                            {
+                                "name": "Equipment type",
+                                "value": "SIM card"
+                            },
+                            {
+                                "name": "Confirmation link",
+                                "value": null
+                            },
+                            {
+                                "name": "SIM technical ID",
+                                "value": null
+                            },
+                            {
+                                "name": "Main SIM",
+                                "value": "Yes"
+                            },
+                            {
+                                "name": "eSIM EID",
+                                "value": null
+                            },
+                            {
+                                "name": "IMSI",
+                                "value": null
+                            },
+                            {
+                                "name": "SIM card activation date",
+                                "value": null
+                            },
+                            {
+                                "name": "SIM card nickname",
+                                "value": null
+                            },
+                            {
+                                "name": "Model",
+                                "value": "pSIM model"
+                            },
+                            {
+                                "name": "SIM card type (Text)",
+                                "value": null
+                            },
+                            {
+                                "name": "ICCID (Text)",
+                                "value": null
+                            },
+                            {
+                                "name": "Product category",
+                                "value": "SIM card"
+                            },
+                            {
+                                "name": "MSISDN",
+                                "value": null
+                            },
+                            {
+                                "name": "Technical MSISDN",
+                                "value": null
+                            },
+                            {
+                                "name": "Additional SIM added",
+                                "value": "No"
+                            },
+                            {
+                                "name": "Delivery type",
+                                "value": null
+                            },
+                            {
+                                "name": "Technical MSISDN (Text)",
+                                "value": null
+                            },
+                            {
+                                "name": "eSIM installation status",
+                                "value": "Un-installed"
+                            },
+                            {
+                                "name": "Carrier privilege rules",
+                                "value": null
+                            },
+                            {
+                                "name": "Old eSIM EID",
+                                "value": null
+                            },
+                            {
+                                "name": "2G service enabled",
+                                "value": "No"
+                            },
+                            {
+                                "name": "Should be as Add On in bill",
+                                "value": "Yes"
+                            },
+                            {
+                                "name": "SIM card network type",
+                                "value": "4G"
+                            },
+                            {
+                                "name": "Last sim swap date",
+                                "value": null
+                            }
+                        ],
+                        "params": [
+                            {
+                                "name": "KYC trigger",
+                                "values": [
+                                    {
+                                        "value": "TRUE"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SIM Card",
+                                "values": [
+                                    {
+                                        "value": "TRUE"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "chars": {
+                    "ICCID": "8997101010005045691",
+                    "SIM technical ID": "4168599962700257457",
+                    "2G service enabled": "No",
+                    "Additional SIM added": "No",
+                    "Equipment type": "SIM card",
+                    "MSISDN": "9168383163013728760",
+                    "SIM card type (Text)": "Physical SIM",
+                    "SIM card type": "Physical SIM",
+                    "Main SIM": "Yes",
+                    "Product category": "SIM card",
+                    "SIM card network type": "4G",
+                    "ICCID (Text)": "8997101010005045691",
+                    "IMSI": "424031000504569",
+                    "Model": "pSIM model",
+                    "Delivery type": "In-store",
+                    "eSIM installation status": "Un-installed",
+                    "Should be as Add On in bill": "Yes"
+                }
+            },
+            {
+                "id": "4168600382300333177",
+                "name": "Plan Upfront Payment (current month)",
+                "locationId": "4168599966000255841",
+                "parentId": "4168599975100259515",
+                "billingAccountId": "4168599967400256250",
+                "productSequenceNumber": null,
+                "status": "Completed",
+                "customerRef": "1000172146",
+                "productSequence": null,
+                "offer": {
+                    "id": "301000353",
+                    "isRoot": false,
+                    "assignedTags": [],
+                    "product": {
+                        "chars": [
+                            {
+                                "name": "Exclude from on-demand",
+                                "value": "True"
+                            },
+                            {
+                                "name": "SKU ID",
+                                "value": "BSCS00010"
+                            }
+                        ],
+                        "params": [
+                            {
+                                "name": "Deactivation Fee",
+                                "values": [
+                                    {
+                                        "value": "TRUE"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Requires billing account",
+                                "values": [
+                                    {
+                                        "value": "TRUE"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "chars": {
+                    "SKU ID": "BSCS00010"
+                }
+            },
+            {
+                "id": "4168599973200259515",
+                "name": "Conference Calling Postpaid",
+                "locationId": "4168599966000255841",
+                "parentId": "4168599975100259515",
+                "billingAccountId": "4168599967400256250",
+                "productSequenceNumber": "6",
+                "status": "Disconnected",
+                "customerRef": "1000172146",
+                "productSequence": "6",
+                "offer": {
+                    "id": "301000312",
+                    "isRoot": false,
+                    "assignedTags": [
+                        {
+                            "name": "Calling Feature"
+                        }
+                    ],
+                    "product": {
+                        "chars": [
+                            {
+                                "name": "Product category",
+                                "value": "VAS"
+                            },
+                            {
+                                "name": "Suspend reason",
+                                "value": null
+                            },
+                            {
+                                "name": "Suspend reason description",
+                                "value": null
+                            },
+                            {
+                                "name": "Should be as Add On in bill",
+                                "value": "Yes"
+                            }
+                        ],
+                        "params": []
+                    }
+                },
+                "chars": {
+                    "Product category": "VAS",
+                    "Should be as Add On in bill": "Yes"
+                }
+            },
+            {
+                "id": "4168599975100259515",
+                "name": "Power 150 Plan Flexi 12 Months",
+                "locationId": "4168599966000255841",
+                "parentId": "4168599965800255741",
+                "billingAccountId": "4168599967400256250",
+                "productSequenceNumber": "1",
+                "status": "Disconnected",
+                "customerRef": "1000172146",
+                "productSequence": "1",
+                "offer": {
+                    "id": "301000003",
+                    "isRoot": true,
+                    "assignedTags": [
+                        {
+                            "name": "Fazaa offer"
+                        },
+                        {
+                            "name": "Flexi mins"
+                        },
+                        {
+                            "name": "Esaad offer"
+                        },
+                        {
+                            "name": "Absher offer"
+                        },
+                        {
+                            "name": "You Matter offer"
+                        }
+                    ],
+                    "product": {
+                        "chars": [
+                            {
+                                "name": "MSISDN",
+                                "value": null
+                            },
+                            {
+                                "name": "Roaming enabled",
+                                "value": "No"
+                            },
+                            {
+                                "name": "Ringback tone",
+                                "value": "No"
+                            },
+                            {
+                                "name": "Easy roaming",
+                                "value": "No"
+                            },
+                            {
+                                "name": "Service type",
+                                "value": "Data&Voice"
+                            },
+                            {
+                                "name": "Contract term",
+                                "value": "12"
+                            },
+                            {
+                                "name": "Data enabled",
+                                "value": "Yes"
+                            },
+                            {
+                                "name": "Trial period end date",
+                                "value": null
+                            },
+                            {
+                                "name": "SMS enabled",
+                                "value": "Yes"
+                            },
+                            {
+                                "name": "Voice enabled",
+                                "value": "Yes"
+                            },
+                            {
+                                "name": "Voice over LTE",
+                                "value": "Yes"
+                            },
+                            {
+                                "name": "MSISDN (Text)",
+                                "value": null
+                            },
+                            {
+                                "name": "Suspend reason",
+                                "value": null
+                            },
+                            {
+                                "name": "Suspend reason description",
+                                "value": null
+                            },
+                            {
+                                "name": "Cancellation reason",
+                                "value": null
+                            },
+                            {
+                                "name": "Disconnect reason",
+                                "value": null
+                            },
+                            {
+                                "name": "Disconnect reason description",
+                                "value": null
+                            },
+                            {
+                                "name": "Plan type",
+                                "value": "Postpaid"
+                            },
+                            {
+                                "name": "Mobile Offer Identification Number",
+                                "value": null
+                            },
+                            {
+                                "name": "Commission calculation required",
+                                "value": "Yes"
+                            },
+                            {
+                                "name": "Target customer account",
+                                "value": null
+                            },
+                            {
+                                "name": "Last port-in date",
+                                "value": null
+                            },
+                            {
+                                "name": "Amazon prime subscription type",
+                                "value": "Paid"
+                            },
+                            {
+                                "name": "Primary SIM IMSI",
+                                "value": null
+                            },
+                            {
+                                "name": "Additional SIM IMSI",
+                                "value": null
+                            },
+                            {
+                                "name": "Business family",
+                                "value": "Power plans"
+                            },
+                            {
+                                "name": "Number category",
+                                "value": null
+                            },
+                            {
+                                "name": "Product category",
+                                "value": "Base plan"
+                            },
+                            {
+                                "name": "Target plan for automatic downgrade",
+                                "value": "PO_MobPost_PPFlexi_002"
+                            },
+                            {
+                                "name": "Sales order ID",
+                                "value": null
+                            },
+                            {
+                                "name": "Sales order sequence number",
+                                "value": null
+                            },
+                            {
+                                "name": "Disable roaming",
+                                "value": "No"
+                            },
+                            {
+                                "name": "Legacy rate plan code",
+                                "value": null
+                            },
+                            {
+                                "name": "Legacy contract code",
+                                "value": null
+                            },
+                            {
+                                "name": "Contract expiry action",
+                                "value": "Stay"
+                            },
+                            {
+                                "name": "Is contract prolongation supported",
+                                "value": "No"
+                            },
+                            {
+                                "name": "Contract commitment active",
+                                "value": "Yes"
+                            },
+                            {
+                                "name": "Is MSISDN commitment active",
+                                "value": null
+                            },
+                            {
+                                "name": "Contract end date",
+                                "value": null
+                            },
+                            {
+                                "name": "Auction number",
+                                "value": "Yes"
+                            },
+                            {
+                                "name": "Billing activation date",
+                                "value": null
+                            },
+                            {
+                                "name": "Is it employee",
+                                "value": "No"
+                            },
+                            {
+                                "name": "Enable 5g standalone",
+                                "value": "No"
+                            },
+                            {
+                                "name": "Court case emirate",
+                                "value": null
+                            },
+                            {
+                                "name": "Court case number",
+                                "value": null
+                            },
+                            {
+                                "name": "Target individual",
+                                "value": null
+                            }
+                        ],
+                        "params": [
+                            {
+                                "name": "KYC trigger",
+                                "values": [
+                                    {
+                                        "value": "TRUE"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mobile Line",
+                                "values": [
+                                    {
+                                        "value": "TRUE"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Offering name",
+                                "values": [
+                                    {
+                                        "value": "Power Plan 125"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Out Of Bundle Charges",
+                                "values": [
+                                    {
+                                        "value": "301000016"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Important To Know",
+                                "values": [
+                                    {
+                                        "value": "PowerPlan125Flexi12m"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Features",
+                                "values": []
+                            },
+                            {
+                                "name": "Specifications",
+                                "values": []
+                            },
+                            {
+                                "name": "In-flight Roaming",
+                                "values": []
+                            },
+                            {
+                                "name": "Product Description HTML",
+                                "values": []
+                            },
+                            {
+                                "name": "Internet Calling Apps",
+                                "values": []
+                            },
+                            {
+                                "name": "Category Marketing Information",
+                                "values": []
+                            },
+                            {
+                                "name": "Category Description HTML",
+                                "values": []
+                            },
+                            {
+                                "name": "Product Out of Bundle Charges",
+                                "values": [
+                                    {
+                                        "value": "{\"en\": [{\"key\": \"Out of bundle National Voice\",\"value\": \"2.4 AED/Min\"},{\"key\": \"Out of bundle International Voice Countries list\",\"value\": \"Standard Rate\"},{\"key\": \"Out of bundle Roaming Voice\",\"value\": \"Standard Rate\"},{\"key\": \"Out of bundle International SMS\",\"value\": \"2.4 AED/Min\"},{\"key\": \"Out of bundle National Video Calls\",\"value\": \"06 AED/Min\"}]}"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Category FAQ",
+                                "values": []
+                            },
+                            {
+                                "name": "Product Image",
+                                "values": []
+                            },
+                            {
+                                "name": "Discount %",
+                                "values": []
+                            },
+                            {
+                                "name": "Category Image",
+                                "values": []
+                            },
+                            {
+                                "name": "360 View",
+                                "values": []
+                            },
+                            {
+                                "name": "Main Device Image",
+                                "values": []
+                            },
+                            {
+                                "name": "Product Description",
+                                "values": [
+                                    {
+                                        "value": "4 GB National data"
+                                    },
+                                    {
+                                        "value": "Extra 10 GB National data for 3 months"
+                                    },
+                                    {
+                                        "value": "100 Flexi minutes"
+                                    },
+                                    {
+                                        "value": "WiFi UAE - 8 GB free data"
+                                    },
+                                    {
+                                        "value": "Free SIM & activation"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Category Terms and Conditions",
+                                "values": []
+                            },
+                            {
+                                "name": "Label",
+                                "values": []
+                            },
+                            {
+                                "name": "Device Image",
+                                "values": []
+                            },
+                            {
+                                "name": "Device Images",
+                                "values": []
+                            }
+                        ]
+                    }
+                },
+                "chars": {
+                    "Voice enabled": "Yes",
+                    "Enable 5g standalone": "No",
+                    "MSISDN": "9168383163013728760",
+                    "Contract commitment active": "Yes",
+                    "Contract term": "12",
+                    "Is contract prolongation supported": "No",
+                    "Business family": "Power plans",
+                    "Roaming enabled": "Yes",
+                    "Disconnect reason": "Bad Debt / Fraud",
+                    "Disable roaming": "No",
+                    "Mobile Offer Identification Number": "1000000000000012167",
+                    "Number category": "Regular",
+                    "Commission calculation required": "Yes",
+                    "Contract expiry action": "Stay",
+                    "Billing activation date": "2023-12-20T15:02:42",
+                    "Easy roaming": "No",
+                    "Voice over LTE": "Yes",
+                    "Amazon prime subscription type": "Paid",
+                    "Data enabled": "Yes",
+                    "Primary SIM IMSI": "971557804970:424031000504569",
+                    "Service type": "Data&Voice",
+                    "Trial period end date": "2024-02-17T00:00:00",
+                    "MSISDN (Text)": "971557804970",
+                    "Product category": "Base plan",
+                    "Ringback tone": "No",
+                    "SMS enabled": "Yes",
+                    "Is it employee": "No",
+                    "Target plan for automatic downgrade": "PO_MobPost_PPFlexi_002",
+                    "Plan type": "Postpaid"
+                }
+            },
+            {
+                "id": "4168599979100259515",
+                "name": "WiFi UAE 8GB Postpaid",
+                "locationId": "4168599966000255841",
+                "parentId": "4168599975100259515",
+                "billingAccountId": "4168599967400256250",
+                "productSequenceNumber": "5",
+                "status": "Disconnected",
+                "customerRef": "1000172146",
+                "productSequence": "5",
+                "offer": {
+                    "id": "301000127",
+                    "isRoot": false,
+                    "assignedTags": [
+                        {
+                            "name": "Included Allowance"
+                        }
+                    ],
+                    "product": {
+                        "chars": [
+                            {
+                                "name": "Data volume",
+                                "value": "8 GB"
+                            },
+                            {
+                                "name": "Mobile Offer Identification Number",
+                                "value": null
+                            },
+                            {
+                                "name": "Allowance type",
+                                "value": "Included allowance"
+                            },
+                            {
+                                "name": "Product category",
+                                "value": "WiFi allowance"
+                            },
+                            {
+                                "name": "Suspend reason",
+                                "value": null
+                            },
+                            {
+                                "name": "Suspend reason description",
+                                "value": null
+                            }
+                        ],
+                        "params": []
+                    }
+                },
+                "chars": {
+                    "Data volume": "8 GB",
+                    "Product category": "WiFi allowance",
+                    "Mobile Offer Identification Number": "1000000000000012167",
+                    "Allowance type": "Included allowance"
+                }
+            },
+            {
+                "id": "4168599970200259515",
+                "name": "Try and Buy Offer #196445",
+                "locationId": "4168599966000255841",
+                "parentId": "4168599975100259515",
+                "billingAccountId": null,
+                "productSequenceNumber": null,
+                "status": "Disconnected",
+                "customerRef": "1000172146",
+                "productSequence": null,
+                "offer": {
+                    "id": "301000416",
+                    "isRoot": false,
+                    "assignedTags": [
+                        {
+                            "name": "Try and Buy"
+                        }
+                    ],
+                    "product": {
+                        "chars": [
+                            {
+                                "name": "Date of notification",
+                                "value": null
+                            },
+                            {
+                                "name": "Days before end of trial period (for notification)",
+                                "value": null
+                            },
+                            {
+                                "name": "Trial period end date",
+                                "value": null
+                            }
+                        ],
+                        "params": [
+                            {
+                                "name": "Try and Buy",
+                                "values": [
+                                    {
+                                        "value": "TRUE"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Manual disconnect prohibition",
+                                "values": [
+                                    {
+                                        "value": "TRUE"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "chars": {
+                    "Date of notification": [
+                        "2024-02-07T00:00:00",
+                        "2024-02-10T00:00:00",
+                        "2024-02-14T00:00:00",
+                        "2024-02-16T00:00:00"
+                    ],
+                    "Days before end of trial period (for notification)": [
+                        "7",
+                        "3",
+                        "10",
+                        "1"
+                    ],
+                    "Trial period end date": "2024-02-17T00:00:00"
+                }
+            },
+            {
+                "id": "4168599971200259515",
+                "name": "National Data 4 GB - Postpaid",
+                "locationId": "4168599966000255841",
+                "parentId": "4168599975100259515",
+                "billingAccountId": "4168599967400256250",
+                "productSequenceNumber": "7",
+                "status": "Disconnected",
+                "customerRef": "1000172146",
+                "productSequence": "7",
+                "offer": {
+                    "id": "301000103",
+                    "isRoot": false,
+                    "assignedTags": [
+                        {
+                            "name": "Included Allowance"
+                        },
+                        {
+                            "name": "0MB-5GB"
+                        }
+                    ],
+                    "product": {
+                        "chars": [
+                            {
+                                "name": "Data volume",
+                                "value": "4 GB"
+                            },
+                            {
+                                "name": "Mobile Offer Identification Number",
+                                "value": null
+                            },
+                            {
+                                "name": "Allowance type",
+                                "value": "Included allowance"
+                            },
+                            {
+                                "name": "Product category",
+                                "value": "Data national allowance"
+                            },
+                            {
+                                "name": "Suspend reason",
+                                "value": null
+                            },
+                            {
+                                "name": "Suspend reason description",
+                                "value": null
+                            }
+                        ],
+                        "params": []
+                    }
+                },
+                "chars": {
+                    "Data volume": "4 GB",
+                    "Product category": "Data national allowance",
+                    "Mobile Offer Identification Number": "1000000000000012167",
+                    "Allowance type": "Included allowance"
+                }
+            },
+            {
+                "id": "4168599978100259515",
+                "name": "Phone Number Postpaid",
+                "locationId": "4168599966000255841",
+                "parentId": "4168599975100259515",
+                "billingAccountId": null,
+                "productSequenceNumber": null,
+                "status": "Completed",
+                "customerRef": "1000172146",
+                "productSequence": null,
+                "offer": {
+                    "id": "301000055",
+                    "isRoot": false,
+                    "assignedTags": [
+                        {
+                            "name": "Phone Number"
+                        }
+                    ],
+                    "product": {
+                        "chars": [
+                            {
+                                "name": "MSISDN",
+                                "value": null
+                            },
+                            {
+                                "name": "Number category",
+                                "value": "Regular"
+                            },
+                            {
+                                "name": "Passcode",
+                                "value": null
+                            }
+                        ],
+                        "params": [
+                            {
+                                "name": "KYC trigger",
+                                "values": [
+                                    {
+                                        "value": "TRUE"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phone Number",
+                                "values": [
+                                    {
+                                        "value": "TRUE"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "chars": {
+                    "MSISDN": "9168383163013728760",
+                    "Number category": "Regular"
+                }
+            },
+            {
+                "id": "4168599974200259515",
+                "name": "Flexi Voice 100 Postpaid",
+                "locationId": "4168599966000255841",
+                "parentId": "4168599975100259515",
+                "billingAccountId": "4168599967400256250",
+                "productSequenceNumber": "4",
+                "status": "Disconnected",
+                "customerRef": "1000172146",
+                "productSequence": "4",
+                "offer": {
+                    "id": "301000090",
+                    "isRoot": false,
+                    "assignedTags": [
+                        {
+                            "name": "0min-150min"
+                        },
+                        {
+                            "name": "Included Allowance"
+                        }
+                    ],
+                    "product": {
+                        "chars": [
+                            {
+                                "name": "Voice volume",
+                                "value": "100 min"
+                            },
+                            {
+                                "name": "Mobile Offer Identification Number",
+                                "value": null
+                            },
+                            {
+                                "name": "Allowance type",
+                                "value": "Included allowance"
+                            },
+                            {
+                                "name": "Product category",
+                                "value": "Voice flexi allowance"
+                            },
+                            {
+                                "name": "Suspend reason",
+                                "value": null
+                            },
+                            {
+                                "name": "Suspend reason description",
+                                "value": null
+                            }
+                        ],
+                        "params": []
+                    }
+                },
+                "chars": {
+                    "Product category": "Voice flexi allowance",
+                    "Mobile Offer Identification Number": "1000000000000012167",
+                    "Allowance type": "Included allowance",
+                    "Voice volume": "100 min"
+                }
+            },
+            {
+                "id": "4168599976100259515",
+                "name": "Double Data Add-on - Recurrent 4 GB 12-Month Postpaid",
+                "locationId": "4168599966000255841",
+                "parentId": "4168599975100259515",
+                "billingAccountId": "4168599967400256250",
+                "productSequenceNumber": "3",
+                "status": "Disconnected",
+                "customerRef": "1000172146",
+                "productSequence": "3",
+                "offer": {
+                    "id": "301000220",
+                    "isRoot": false,
+                    "assignedTags": [
+                        {
+                            "name": "Recurrent Add-On"
+                        },
+                        {
+                            "name": "Included Allowance"
+                        }
+                    ],
+                    "product": {
+                        "chars": [
+                            {
+                                "name": "Data volume",
+                                "value": "4 GB"
+                            },
+                            {
+                                "name": "Duration",
+                                "value": "12"
+                            },
+                            {
+                                "name": "Duration unit",
+                                "value": "Months"
+                            },
+                            {
+                                "name": "Mobile Offer Identification Number",
+                                "value": null
+                            },
+                            {
+                                "name": "Allowance type",
+                                "value": "Recurrent pack add-on"
+                            },
+                            {
+                                "name": "Pack service type",
+                                "value": "Data"
+                            },
+                            {
+                                "name": "Product category",
+                                "value": "Data national allowance"
+                            },
+                            {
+                                "name": "Suspend reason",
+                                "value": null
+                            },
+                            {
+                                "name": "Suspend reason description",
+                                "value": null
+                            }
+                        ],
+                        "params": [
+                            {
+                                "name": "Disconnect If TLO contract expired",
+                                "values": [
+                                    {
+                                        "value": "TRUE"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "chars": {
+                    "Product category": "Data national allowance",
+                    "Mobile Offer Identification Number": "1000000000000012167",
+                    "Allowance type": "Recurrent pack add-on",
+                    "Data volume": "4 GB",
+                    "Duration": "12",
+                    "Duration unit": "Months",
+                    "Pack service type": "Data"
+                }
+            }
+        ]
+    },
+    "extensions": {
+        "complexity": 24,
+        "bssListCustomerProductsV2": {
+            "rangeFrom": "1",
+            "rangeTo": "11",
+            "totalCount": "11"
+        }
+    }
+}
