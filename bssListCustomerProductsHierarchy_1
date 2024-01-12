@@ -1,0 +1,1616 @@
+{
+  "data": {
+    "bssListCustomerProductsHierarchy": [
+      {
+        "id": "3168479621480760395",
+        "parentId": "3168479051380606966",
+        "billingAccountId": "3168479063380610167",
+        "name": "Power 225 Plan Flexi 12 Months#971557808133",
+        "locationId": "3168479051480606966",
+        "productSequenceNumber": "1",
+        "customerRef": "1000166970",
+        "productSequence": "1",
+        "chars": {
+          "Voice enabled": "Yes",
+          "Enable 5g standalone": "No",
+          "MSISDN": "9168383163613724859",
+          "Contract commitment active": "Yes",
+          "Contract end date": "2024-12-06T16:46:36",
+          "Contract term": "12",
+          "Is contract prolongation supported": "No",
+          "Business family": "Power plans",
+          "Roaming enabled": "Yes",
+          "Disable roaming": "No",
+          "Mobile Offer Identification Number": "1000000000000004445",
+          "Number category": "Regular",
+          "Commission calculation required": "Yes",
+          "Contract expiry action": "Stay",
+          "Billing activation date": "2023-12-06T16:46:36",
+          "Easy roaming": "No",
+          "Voice over LTE": "Yes",
+          "Amazon prime subscription type": "Free",
+          "Data enabled": "Yes",
+          "Primary SIM IMSI": "971557808133:424030288542541",
+          "Service type": "Data&Voice",
+          "Trial period end date": "2024-02-01T00:00:00",
+          "MSISDN (Text)": "971557808133",
+          "Product category": "Base plan",
+          "Ringback tone": "No",
+          "SMS enabled": "Yes",
+          "Is it employee": "No",
+          "Target plan for automatic downgrade": "PO_MobPost_PPFlexi_004",
+          "Plan type": "Postpaid"
+        },
+        "status": "Active",
+        "offer": {
+          "id": "301000007",
+          "name": "Power 225 Plan Flexi 12 Months",
+          "product": {
+            "params": [
+              {
+                "name": "KYC trigger",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              },
+              {
+                "name": "Mobile Line",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              },
+              {
+                "name": "Offering name",
+                "values": [
+                  {
+                    "value": "Power Plan 200"
+                  }
+                ]
+              },
+              {
+                "name": "Out Of Bundle Charges",
+                "values": [
+                  {
+                    "value": "301000016"
+                  }
+                ]
+              },
+              {
+                "name": "Important To Know",
+                "values": [
+                  {
+                    "value": "PowerPlan200Flexi12m"
+                  }
+                ]
+              },
+              {
+                "name": "Features",
+                "values": []
+              },
+              {
+                "name": "Specifications",
+                "values": []
+              },
+              {
+                "name": "In-flight Roaming",
+                "values": []
+              },
+              {
+                "name": "Product Description HTML",
+                "values": []
+              },
+              {
+                "name": "Internet Calling Apps",
+                "values": []
+              },
+              {
+                "name": "Category Marketing Information",
+                "values": []
+              },
+              {
+                "name": "Category Description HTML",
+                "values": []
+              },
+              {
+                "name": "Category FAQ",
+                "values": []
+              },
+              {
+                "name": "Product Out of Bundle Charges",
+                "values": [
+                  {
+                    "value": "{\"en\": [{\"key\": \"Out of bundle National Voice\",\"value\": \"2.4 AED/Min\"},{\"key\": \"Out of bundle International Voice Countries list\",\"value\": \"Standard Rate\"},{\"key\": \"Out of bundle Roaming Voice\",\"value\": \"Standard Rate\"},{\"key\": \"Out of bundle International SMS\",\"value\": \"2.4 AED/Min\"},{\"key\": \"Out of bundle National Video Calls\",\"value\": \"06 AED/Min\"}]}"
+                  }
+                ]
+              },
+              {
+                "name": "Product Image",
+                "values": [
+                  {
+                    "value": "/documents/20121/61422/disney"
+                  }
+                ]
+              },
+              {
+                "name": "Discount %",
+                "values": []
+              },
+              {
+                "name": "Category Image",
+                "values": []
+              },
+              {
+                "name": "360 View",
+                "values": []
+              },
+              {
+                "name": "Main Device Image",
+                "values": []
+              },
+              {
+                "name": "Product Description",
+                "values": [
+                  {
+                    "value": "13 GB National data"
+                  },
+                  {
+                    "value": "Extra 13 GB National data for 3 months"
+                  },
+                  {
+                    "value": "400 Flexi minutes"
+                  },
+                  {
+                    "value": "WiFi UAE - 26 GB free data"
+                  },
+                  {
+                    "value": "Carry over up to 6.5 GB to next month"
+                  },
+                  {
+                    "value": "Free SIM & activation"
+                  },
+                  {
+                    "value": "100 MB Roaming data /month"
+                  }
+                ]
+              },
+              {
+                "name": "Category Terms and Conditions",
+                "values": []
+              },
+              {
+                "name": "Device Images",
+                "values": []
+              },
+              {
+                "name": "Label",
+                "values": [
+                  {
+                    "value": "Online Exclusive - Save AED 350"
+                  }
+                ]
+              },
+              {
+                "name": "Device Image",
+                "values": []
+              }
+            ]
+          }
+        },
+        "customerProducts": [
+          {
+            "id": "3168479624480760395",
+            "name": "WiFi UAE 26GB Postpaid",
+            "chars": {
+              "Data volume": "26 GB",
+              "Product category": "WiFi allowance",
+              "Mobile Offer Identification Number": "1000000000000004445",
+              "Allowance type": "Included allowance"
+            },
+            "offer": {
+              "name": "WiFi UAE 26GB Postpaid",
+              "assignedTags": [
+                {
+                  "name": "Included Allowance"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          },
+          {
+            "id": "3168479627480760395",
+            "name": "Roaming Data 100 MB - Postpaid",
+            "chars": {
+              "Product category": "Data roaming allowance",
+              "Mobile Offer Identification Number": "1000000000000004445",
+              "Allowance type": "Roaming included allowance",
+              "Zone": "Zone A",
+              "Data volume": "100 MB",
+              "Pack service type": "Data"
+            },
+            "offer": {
+              "name": "Roaming Data 100 MB - Postpaid",
+              "assignedTags": [
+                {
+                  "name": "0MB-2GB"
+                },
+                {
+                  "name": "Roaming Add-On"
+                },
+                {
+                  "name": "Included Allowance"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          },
+          {
+            "id": "3168479620580760395",
+            "name": "Beneficial Disney+",
+            "chars": {
+              "Disney+ subscription type": "Included"
+            },
+            "offer": {
+              "name": "Beneficial Disney+",
+              "assignedTags": [
+                {
+                  "name": "OTT"
+                },
+                {
+                  "name": "Cannot be purchased by Fast Track"
+                },
+                {
+                  "name": "OTT Subscriptions"
+                },
+                {
+                  "name": "Disney+"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "Disconnect If TLO contract expired",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479622480760395",
+            "name": "National Data 13 GB with CO Postpaid",
+            "chars": {
+              "Data volume": "13 GB",
+              "Product category": "Data national allowance",
+              "Mobile Offer Identification Number": "1000000000000004445",
+              "Allowance type": "Included allowance"
+            },
+            "offer": {
+              "name": "National Data 13 GB with CO Postpaid",
+              "assignedTags": [
+                {
+                  "name": "10GB-20GB"
+                },
+                {
+                  "name": "Included Allowance"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          },
+          {
+            "id": "3168479629480760395",
+            "name": "Conference Calling Postpaid",
+            "chars": {
+              "Product category": "VAS",
+              "Should be as Add On in bill": "Yes"
+            },
+            "offer": {
+              "name": "Conference Calling Postpaid",
+              "assignedTags": [
+                {
+                  "name": "Calling Feature"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          },
+          {
+            "id": "3168479623480760395",
+            "name": "Double Data Add-on - Recurrent 13 GB 12-Month Postpaid",
+            "chars": {
+              "Product category": "Data national allowance",
+              "Mobile Offer Identification Number": "1000000000000004445",
+              "Allowance type": "Recurrent pack add-on",
+              "Data volume": "13 GB",
+              "Duration": "12",
+              "Duration unit": "Months",
+              "Pack service type": "Data"
+            },
+            "offer": {
+              "name": "Double Data Add-on - Recurrent 13 GB 12-Month Postpaid",
+              "assignedTags": [
+                {
+                  "name": "Recurrent Add-On"
+                },
+                {
+                  "name": "Included Allowance"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "Disconnect If TLO contract expired",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479622580760395",
+            "name": "Phone Number Postpaid",
+            "chars": {
+              "MSISDN": "9168383163613724859",
+              "Number category": "Regular"
+            },
+            "offer": {
+              "name": "Phone Number Postpaid",
+              "assignedTags": [
+                {
+                  "name": "Phone Number"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "KYC trigger",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Phone Number",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479625480760395",
+            "name": "Try and Buy Offer #72761",
+            "chars": {
+              "Date of notification": [
+                "2024-01-22T00:00:00",
+                "2024-01-25T00:00:00",
+                "2024-01-29T00:00:00",
+                "2024-01-31T00:00:00"
+              ],
+              "Days before end of trial period (for notification)": [
+                "7",
+                "3",
+                "10",
+                "1"
+              ],
+              "Trial period end date": "2024-02-01T00:00:00"
+            },
+            "offer": {
+              "name": "Try and Buy Offer",
+              "assignedTags": [
+                {
+                  "name": "Try and Buy"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "Try and Buy",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manual disconnect prohibition",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479628480760395",
+            "name": "Primary SIM Card - Postpaid",
+            "chars": {
+              "ICCID": "8997103324033953174",
+              "SIM technical ID": "3168479249180646535",
+              "2G service enabled": "No",
+              "Additional SIM added": "No",
+              "Equipment type": "SIM card",
+              "MSISDN": "9168383163613724859",
+              "Confirmation link": "LPA:1$sm-v4-041-b-gtm.pr.go-esim.com$909A9AC41BC49984DCCDC4B852E133B1",
+              "SIM card type (Text)": "eSIM",
+              "SIM card type": "eSIM",
+              "Main SIM": "Yes",
+              "Product category": "SIM card",
+              "SIM card network type": "4G",
+              "ICCID (Text)": "8997103324033953174",
+              "IMSI": "424030288542541",
+              "Model": "pSIM model",
+              "eSIM installation status": "Un-installed",
+              "Should be as Add On in bill": "Yes"
+            },
+            "offer": {
+              "name": "Primary SIM Card - Postpaid",
+              "assignedTags": [
+                {
+                  "name": "SIM Card"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "KYC trigger",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "SIM Card",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479621580760395",
+            "name": "Flexi Voice 400 Postpaid",
+            "chars": {
+              "Product category": "Voice flexi allowance",
+              "Mobile Offer Identification Number": "1000000000000004445",
+              "Allowance type": "Included allowance",
+              "Voice volume": "400 min"
+            },
+            "offer": {
+              "name": "Flexi Voice 400 Postpaid",
+              "assignedTags": [
+                {
+                  "name": "400min-1000min"
+                },
+                {
+                  "name": "Included Allowance"
+                },
+                {
+                  "name": "150min-400min"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          }
+        ],
+        "purchasedPrices": {
+          "taxFlag": null,
+          "recurrentTotalWithTaxDiscounted": {
+            "currency": {
+              "currencyCode": "AED"
+            },
+            "value": 210
+          },
+          "recurrentTax": {
+            "value": 10
+          },
+          "recurrentTotalWithTax": {
+            "value": 210
+          },
+          "recurrentTotal": {
+            "value": 200
+          }
+        }
+      },
+      {
+        "id": "3168479672580771138",
+        "parentId": "3168479051380606966",
+        "billingAccountId": "3168479063380610167",
+        "name": "Power 225 Plan Flexi 12 Months#971557804983",
+        "locationId": "3168479051480606966",
+        "productSequenceNumber": "10",
+        "customerRef": "1000166970",
+        "productSequence": "10",
+        "chars": {
+          "Voice enabled": "Yes",
+          "Enable 5g standalone": "No",
+          "MSISDN": "9168383168113728760",
+          "Contract commitment active": "Yes",
+          "Contract end date": "2024-12-06T16:53:17",
+          "Contract term": "12",
+          "Is contract prolongation supported": "No",
+          "Business family": "Power plans",
+          "Roaming enabled": "Yes",
+          "Disable roaming": "No",
+          "Mobile Offer Identification Number": "1000000000000004454",
+          "Number category": "Regular",
+          "Commission calculation required": "Yes",
+          "Contract expiry action": "Stay",
+          "Billing activation date": "2023-12-06T16:53:17",
+          "Easy roaming": "No",
+          "Voice over LTE": "Yes",
+          "Amazon prime subscription type": "Free",
+          "Data enabled": "Yes",
+          "Primary SIM IMSI": "971557804983:424030288538163",
+          "Service type": "Data&Voice",
+          "Trial period end date": "2024-02-01T00:00:00",
+          "MSISDN (Text)": "971557804983",
+          "Product category": "Base plan",
+          "Ringback tone": "No",
+          "SMS enabled": "Yes",
+          "Is it employee": "No",
+          "Target plan for automatic downgrade": "PO_MobPost_PPFlexi_004",
+          "Plan type": "Postpaid"
+        },
+        "status": "Active",
+        "offer": {
+          "id": "301000007",
+          "name": "Power 225 Plan Flexi 12 Months",
+          "product": {
+            "params": [
+              {
+                "name": "KYC trigger",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              },
+              {
+                "name": "Mobile Line",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              },
+              {
+                "name": "Offering name",
+                "values": [
+                  {
+                    "value": "Power Plan 200"
+                  }
+                ]
+              },
+              {
+                "name": "Out Of Bundle Charges",
+                "values": [
+                  {
+                    "value": "301000016"
+                  }
+                ]
+              },
+              {
+                "name": "Important To Know",
+                "values": [
+                  {
+                    "value": "PowerPlan200Flexi12m"
+                  }
+                ]
+              },
+              {
+                "name": "Features",
+                "values": []
+              },
+              {
+                "name": "Specifications",
+                "values": []
+              },
+              {
+                "name": "In-flight Roaming",
+                "values": []
+              },
+              {
+                "name": "Product Description HTML",
+                "values": []
+              },
+              {
+                "name": "Internet Calling Apps",
+                "values": []
+              },
+              {
+                "name": "Category Marketing Information",
+                "values": []
+              },
+              {
+                "name": "Category Description HTML",
+                "values": []
+              },
+              {
+                "name": "Category FAQ",
+                "values": []
+              },
+              {
+                "name": "Product Out of Bundle Charges",
+                "values": [
+                  {
+                    "value": "{\"en\": [{\"key\": \"Out of bundle National Voice\",\"value\": \"2.4 AED/Min\"},{\"key\": \"Out of bundle International Voice Countries list\",\"value\": \"Standard Rate\"},{\"key\": \"Out of bundle Roaming Voice\",\"value\": \"Standard Rate\"},{\"key\": \"Out of bundle International SMS\",\"value\": \"2.4 AED/Min\"},{\"key\": \"Out of bundle National Video Calls\",\"value\": \"06 AED/Min\"}]}"
+                  }
+                ]
+              },
+              {
+                "name": "Product Image",
+                "values": [
+                  {
+                    "value": "/documents/20121/61422/disney"
+                  }
+                ]
+              },
+              {
+                "name": "Discount %",
+                "values": []
+              },
+              {
+                "name": "Category Image",
+                "values": []
+              },
+              {
+                "name": "360 View",
+                "values": []
+              },
+              {
+                "name": "Main Device Image",
+                "values": []
+              },
+              {
+                "name": "Product Description",
+                "values": [
+                  {
+                    "value": "13 GB National data"
+                  },
+                  {
+                    "value": "Extra 13 GB National data for 3 months"
+                  },
+                  {
+                    "value": "400 Flexi minutes"
+                  },
+                  {
+                    "value": "WiFi UAE - 26 GB free data"
+                  },
+                  {
+                    "value": "Carry over up to 6.5 GB to next month"
+                  },
+                  {
+                    "value": "Free SIM & activation"
+                  },
+                  {
+                    "value": "100 MB Roaming data /month"
+                  }
+                ]
+              },
+              {
+                "name": "Category Terms and Conditions",
+                "values": []
+              },
+              {
+                "name": "Device Images",
+                "values": []
+              },
+              {
+                "name": "Label",
+                "values": [
+                  {
+                    "value": "Online Exclusive - Save AED 350"
+                  }
+                ]
+              },
+              {
+                "name": "Device Image",
+                "values": []
+              }
+            ]
+          }
+        },
+        "customerProducts": [
+          {
+            "id": "3168479674580771138",
+            "name": "Conference Calling Postpaid",
+            "chars": {
+              "Product category": "VAS",
+              "Should be as Add On in bill": "Yes"
+            },
+            "offer": {
+              "name": "Conference Calling Postpaid",
+              "assignedTags": [
+                {
+                  "name": "Calling Feature"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          },
+          {
+            "id": "3168479676580771138",
+            "name": "Try and Buy Offer #72934",
+            "chars": {
+              "Date of notification": [
+                "2024-01-22T00:00:00",
+                "2024-01-25T00:00:00",
+                "2024-01-29T00:00:00",
+                "2024-01-31T00:00:00"
+              ],
+              "Days before end of trial period (for notification)": [
+                "7",
+                "3",
+                "10",
+                "1"
+              ],
+              "Trial period end date": "2024-02-01T00:00:00"
+            },
+            "offer": {
+              "name": "Try and Buy Offer",
+              "assignedTags": [
+                {
+                  "name": "Try and Buy"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "Try and Buy",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manual disconnect prohibition",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479677580771138",
+            "name": "Phone Number Postpaid",
+            "chars": {
+              "MSISDN": "9168383168113728760",
+              "Number category": "Regular"
+            },
+            "offer": {
+              "name": "Phone Number Postpaid",
+              "assignedTags": [
+                {
+                  "name": "Phone Number"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "KYC trigger",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Phone Number",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479671680771138",
+            "name": "Roaming Data 100 MB - Postpaid",
+            "chars": {
+              "Product category": "Data roaming allowance",
+              "Mobile Offer Identification Number": "1000000000000004454",
+              "Allowance type": "Roaming included allowance",
+              "Zone": "Zone A",
+              "Data volume": "100 MB",
+              "Pack service type": "Data"
+            },
+            "offer": {
+              "name": "Roaming Data 100 MB - Postpaid",
+              "assignedTags": [
+                {
+                  "name": "0MB-2GB"
+                },
+                {
+                  "name": "Roaming Add-On"
+                },
+                {
+                  "name": "Included Allowance"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          },
+          {
+            "id": "3168479673580771138",
+            "name": "Flexi Voice 400 Postpaid",
+            "chars": {
+              "Product category": "Voice flexi allowance",
+              "Mobile Offer Identification Number": "1000000000000004454",
+              "Allowance type": "Included allowance",
+              "Voice volume": "400 min"
+            },
+            "offer": {
+              "name": "Flexi Voice 400 Postpaid",
+              "assignedTags": [
+                {
+                  "name": "400min-1000min"
+                },
+                {
+                  "name": "Included Allowance"
+                },
+                {
+                  "name": "150min-400min"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          },
+          {
+            "id": "3168479672680771138",
+            "name": "Primary SIM Card - Postpaid",
+            "chars": {
+              "ICCID": "8997103324033909390",
+              "SIM technical ID": "3168479256880656219",
+              "2G service enabled": "No",
+              "Additional SIM added": "No",
+              "Equipment type": "SIM card",
+              "MSISDN": "9168383168113728760",
+              "Confirmation link": "LPA:1$sm-v4-041-b-gtm.pr.go-esim.com$D05AE30AA17A68CEDD42576637801501",
+              "SIM card type (Text)": "eSIM",
+              "SIM card type": "eSIM",
+              "Main SIM": "Yes",
+              "Product category": "SIM card",
+              "SIM card network type": "4G",
+              "ICCID (Text)": "8997103324033909390",
+              "IMSI": "424030288538163",
+              "Model": "pSIM model",
+              "eSIM installation status": "Un-installed",
+              "Should be as Add On in bill": "Yes"
+            },
+            "offer": {
+              "name": "Primary SIM Card - Postpaid",
+              "assignedTags": [
+                {
+                  "name": "SIM Card"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "KYC trigger",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "SIM Card",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479675580771138",
+            "name": "Double Data Add-on - Recurrent 13 GB 12-Month Postpaid",
+            "chars": {
+              "Product category": "Data national allowance",
+              "Mobile Offer Identification Number": "1000000000000004454",
+              "Allowance type": "Recurrent pack add-on",
+              "Data volume": "13 GB",
+              "Duration": "12",
+              "Duration unit": "Months",
+              "Pack service type": "Data"
+            },
+            "offer": {
+              "name": "Double Data Add-on - Recurrent 13 GB 12-Month Postpaid",
+              "assignedTags": [
+                {
+                  "name": "Recurrent Add-On"
+                },
+                {
+                  "name": "Included Allowance"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "Disconnect If TLO contract expired",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479679580771138",
+            "name": "Beneficial Disney+",
+            "chars": {
+              "Disney+ subscription type": "Included"
+            },
+            "offer": {
+              "name": "Beneficial Disney+",
+              "assignedTags": [
+                {
+                  "name": "OTT"
+                },
+                {
+                  "name": "Cannot be purchased by Fast Track"
+                },
+                {
+                  "name": "OTT Subscriptions"
+                },
+                {
+                  "name": "Disney+"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "Disconnect If TLO contract expired",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479670680771138",
+            "name": "National Data 13 GB with CO Postpaid",
+            "chars": {
+              "Data volume": "13 GB",
+              "Product category": "Data national allowance",
+              "Mobile Offer Identification Number": "1000000000000004454",
+              "Allowance type": "Included allowance"
+            },
+            "offer": {
+              "name": "National Data 13 GB with CO Postpaid",
+              "assignedTags": [
+                {
+                  "name": "10GB-20GB"
+                },
+                {
+                  "name": "Included Allowance"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          },
+          {
+            "id": "3168479678580771138",
+            "name": "WiFi UAE 26GB Postpaid",
+            "chars": {
+              "Data volume": "26 GB",
+              "Product category": "WiFi allowance",
+              "Mobile Offer Identification Number": "1000000000000004454",
+              "Allowance type": "Included allowance"
+            },
+            "offer": {
+              "name": "WiFi UAE 26GB Postpaid",
+              "assignedTags": [
+                {
+                  "name": "Included Allowance"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          }
+        ],
+        "purchasedPrices": {
+          "taxFlag": null,
+          "recurrentTotalWithTaxDiscounted": {
+            "currency": {
+              "currencyCode": "AED"
+            },
+            "value": 210
+          },
+          "recurrentTax": {
+            "value": 10
+          },
+          "recurrentTotalWithTax": {
+            "value": 210
+          },
+          "recurrentTotal": {
+            "value": 200
+          }
+        }
+      },
+      {
+        "id": "3168479750780792078",
+        "parentId": "3168479051380606966",
+        "billingAccountId": "3168479063380610167",
+        "name": "Power 225 Plan Flexi 24 Months#971557801488",
+        "locationId": "3168479051480606966",
+        "productSequenceNumber": "19",
+        "customerRef": "1000166970",
+        "productSequence": "19",
+        "chars": {
+          "Voice enabled": "Yes",
+          "Enable 5g standalone": "No",
+          "MSISDN": "9168383162713720059",
+          "Contract commitment active": "Yes",
+          "Contract end date": "2025-12-06T17:07:11",
+          "Contract term": "24",
+          "Is contract prolongation supported": "No",
+          "Business family": "Power plans",
+          "Roaming enabled": "Yes",
+          "Disable roaming": "No",
+          "Mobile Offer Identification Number": "1000000000000004572",
+          "Number category": "Regular",
+          "Commission calculation required": "Yes",
+          "Contract expiry action": "Stay",
+          "Billing activation date": "2023-12-06T17:07:11",
+          "Easy roaming": "No",
+          "Voice over LTE": "Yes",
+          "Amazon prime subscription type": "Free",
+          "Data enabled": "Yes",
+          "Primary SIM IMSI": "971557801488:424030288537712",
+          "Service type": "Data&Voice",
+          "Trial period end date": "2024-02-01T00:00:00",
+          "MSISDN (Text)": "971557801488",
+          "Product category": "Base plan",
+          "Ringback tone": "No",
+          "SMS enabled": "Yes",
+          "Is it employee": "No",
+          "Target plan for automatic downgrade": "PO_MobPost_PPFlexi_004",
+          "Plan type": "Postpaid"
+        },
+        "status": "Active",
+        "offer": {
+          "id": "301000008",
+          "name": "Power 225 Plan Flexi 24 Months",
+          "product": {
+            "params": [
+              {
+                "name": "KYC trigger",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              },
+              {
+                "name": "Mobile Line",
+                "values": [
+                  {
+                    "value": "TRUE"
+                  }
+                ]
+              },
+              {
+                "name": "Offering name",
+                "values": [
+                  {
+                    "value": "Power Plan 200"
+                  }
+                ]
+              },
+              {
+                "name": "Out Of Bundle Charges",
+                "values": [
+                  {
+                    "value": "301000016"
+                  }
+                ]
+              },
+              {
+                "name": "Important To Know",
+                "values": [
+                  {
+                    "value": "PowerPlan200Flexi12m"
+                  }
+                ]
+              },
+              {
+                "name": "Features",
+                "values": []
+              },
+              {
+                "name": "Specifications",
+                "values": []
+              },
+              {
+                "name": "In-flight Roaming",
+                "values": []
+              },
+              {
+                "name": "Product Description HTML",
+                "values": []
+              },
+              {
+                "name": "Internet Calling Apps",
+                "values": []
+              },
+              {
+                "name": "Category Marketing Information",
+                "values": []
+              },
+              {
+                "name": "Category Description HTML",
+                "values": []
+              },
+              {
+                "name": "Category FAQ",
+                "values": []
+              },
+              {
+                "name": "Product Out of Bundle Charges",
+                "values": [
+                  {
+                    "value": "{\"en\": [{\"key\": \"Out of bundle National Voice\",\"value\": \"2.4 AED/Min\"},{\"key\": \"Out of bundle International Voice Countries list\",\"value\": \"Standard Rate\"},{\"key\": \"Out of bundle Roaming Voice\",\"value\": \"Standard Rate\"},{\"key\": \"Out of bundle International SMS\",\"value\": \"2.4 AED/Min\"},{\"key\": \"Out of bundle National Video Calls\",\"value\": \"06 AED/Min\"}]}"
+                  }
+                ]
+              },
+              {
+                "name": "Product Image",
+                "values": [
+                  {
+                    "value": "/documents/20121/61422/disney"
+                  }
+                ]
+              },
+              {
+                "name": "Discount %",
+                "values": []
+              },
+              {
+                "name": "Category Image",
+                "values": []
+              },
+              {
+                "name": "360 View",
+                "values": []
+              },
+              {
+                "name": "Main Device Image",
+                "values": []
+              },
+              {
+                "name": "Product Description",
+                "values": [
+                  {
+                    "value": "13 GB National data"
+                  },
+                  {
+                    "value": "Extra 13 GB National data for 3 months"
+                  },
+                  {
+                    "value": "400 Flexi minutes"
+                  },
+                  {
+                    "value": "WiFi UAE - 26 GB free data"
+                  },
+                  {
+                    "value": "Carry over up to 6.5 GB to next month"
+                  },
+                  {
+                    "value": "Free SIM & activation"
+                  },
+                  {
+                    "value": "100 MB Roaming data /month"
+                  }
+                ]
+              },
+              {
+                "name": "Category Terms and Conditions",
+                "values": []
+              },
+              {
+                "name": "Device Images",
+                "values": []
+              },
+              {
+                "name": "Label",
+                "values": [
+                  {
+                    "value": "Online Exclusive - Save AED 350"
+                  }
+                ]
+              },
+              {
+                "name": "Device Image",
+                "values": []
+              }
+            ]
+          }
+        },
+        "customerProducts": [
+          {
+            "id": "3168479757780792078",
+            "name": "Double Data Add-on - Recurrent 13 GB 24-Month Postpaid",
+            "chars": {
+              "Product category": "Data national allowance",
+              "Mobile Offer Identification Number": "1000000000000004572",
+              "Allowance type": "Recurrent pack add-on",
+              "Data volume": "13 GB",
+              "Duration": "24",
+              "Duration unit": "Months",
+              "Pack service type": "Data"
+            },
+            "offer": {
+              "name": "Double Data Add-on - Recurrent 13 GB 24-Month Postpaid",
+              "assignedTags": [
+                {
+                  "name": "Recurrent Add-On"
+                },
+                {
+                  "name": "Included Allowance"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "Disconnect If TLO contract expired",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479752880792078",
+            "name": "Primary SIM Card - Postpaid",
+            "chars": {
+              "ICCID": "8997103324033904888",
+              "SIM technical ID": "3168479695080775405",
+              "2G service enabled": "No",
+              "Additional SIM added": "No",
+              "Equipment type": "SIM card",
+              "MSISDN": "9168383162713720059",
+              "Confirmation link": "LPA:1$sm-v4-041-b-gtm.pr.go-esim.com$7BAF7553B0471639A2A0FAF138268E82",
+              "SIM card type (Text)": "eSIM",
+              "SIM card type": "eSIM",
+              "Main SIM": "Yes",
+              "Product category": "SIM card",
+              "SIM card network type": "4G",
+              "ICCID (Text)": "8997103324033904888",
+              "IMSI": "424030288537712",
+              "Model": "pSIM model",
+              "eSIM installation status": "Un-installed",
+              "Should be as Add On in bill": "Yes"
+            },
+            "offer": {
+              "name": "Primary SIM Card - Postpaid",
+              "assignedTags": [
+                {
+                  "name": "SIM Card"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "KYC trigger",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "SIM Card",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479754780792078",
+            "name": "Phone Number Postpaid",
+            "chars": {
+              "MSISDN": "9168383162713720059",
+              "Number category": "Regular"
+            },
+            "offer": {
+              "name": "Phone Number Postpaid",
+              "assignedTags": [
+                {
+                  "name": "Phone Number"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "KYC trigger",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Phone Number",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479752780792078",
+            "name": "Conference Calling Postpaid",
+            "chars": {
+              "Product category": "VAS",
+              "Should be as Add On in bill": "Yes"
+            },
+            "offer": {
+              "name": "Conference Calling Postpaid",
+              "assignedTags": [
+                {
+                  "name": "Calling Feature"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          },
+          {
+            "id": "3168479758780792078",
+            "name": "National Data 13 GB with CO Postpaid",
+            "chars": {
+              "Data volume": "13 GB",
+              "Product category": "Data national allowance",
+              "Mobile Offer Identification Number": "1000000000000004572",
+              "Allowance type": "Included allowance"
+            },
+            "offer": {
+              "name": "National Data 13 GB with CO Postpaid",
+              "assignedTags": [
+                {
+                  "name": "10GB-20GB"
+                },
+                {
+                  "name": "Included Allowance"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          },
+          {
+            "id": "3168479755780792078",
+            "name": "Roaming Data 100 MB - Postpaid",
+            "chars": {
+              "Product category": "Data roaming allowance",
+              "Mobile Offer Identification Number": "1000000000000004572",
+              "Allowance type": "Roaming included allowance",
+              "Zone": "Zone A",
+              "Data volume": "100 MB",
+              "Pack service type": "Data"
+            },
+            "offer": {
+              "name": "Roaming Data 100 MB - Postpaid",
+              "assignedTags": [
+                {
+                  "name": "0MB-2GB"
+                },
+                {
+                  "name": "Roaming Add-On"
+                },
+                {
+                  "name": "Included Allowance"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          },
+          {
+            "id": "3168479759780792078",
+            "name": "Try and Buy Offer #74983",
+            "chars": {
+              "Date of notification": [
+                "2024-01-22T00:00:00",
+                "2024-01-25T00:00:00",
+                "2024-01-29T00:00:00",
+                "2024-01-31T00:00:00"
+              ],
+              "Days before end of trial period (for notification)": [
+                "7",
+                "3",
+                "10",
+                "1"
+              ],
+              "Trial period end date": "2024-02-01T00:00:00"
+            },
+            "offer": {
+              "name": "Try and Buy Offer",
+              "assignedTags": [
+                {
+                  "name": "Try and Buy"
+                }
+              ],
+              "product": {
+                "params": [
+                  {
+                    "name": "Try and Buy",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Manual disconnect prohibition",
+                    "values": [
+                      {
+                        "value": "TRUE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3168479753780792078",
+            "name": "Flexi Voice 400 Postpaid",
+            "chars": {
+              "Product category": "Voice flexi allowance",
+              "Mobile Offer Identification Number": "1000000000000004572",
+              "Allowance type": "Included allowance",
+              "Voice volume": "400 min"
+            },
+            "offer": {
+              "name": "Flexi Voice 400 Postpaid",
+              "assignedTags": [
+                {
+                  "name": "400min-1000min"
+                },
+                {
+                  "name": "Included Allowance"
+                },
+                {
+                  "name": "150min-400min"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          },
+          {
+            "id": "3168479751880792078",
+            "name": "WiFi UAE 26GB Postpaid",
+            "chars": {
+              "Data volume": "26 GB",
+              "Product category": "WiFi allowance",
+              "Mobile Offer Identification Number": "1000000000000004572",
+              "Allowance type": "Included allowance"
+            },
+            "offer": {
+              "name": "WiFi UAE 26GB Postpaid",
+              "assignedTags": [
+                {
+                  "name": "Included Allowance"
+                }
+              ],
+              "product": {
+                "params": []
+              }
+            }
+          }
+        ],
+        "purchasedPrices": {
+          "taxFlag": null,
+          "recurrentTotalWithTaxDiscounted": {
+            "currency": {
+              "currencyCode": "AED"
+            },
+            "value": 210
+          },
+          "recurrentTax": {
+            "value": 10
+          },
+          "recurrentTotalWithTax": {
+            "value": 210
+          },
+          "recurrentTotal": {
+            "value": 200
+          }
+        }
+      }
+    ]
+  },
+  "extensions": {
+    "complexity": 44,
+    "bssListCustomerProductsHierarchy": {
+      "rangeFrom": "1",
+      "rangeTo": "3",
+      "totalCount": "3"
+    }
+  }
+}
